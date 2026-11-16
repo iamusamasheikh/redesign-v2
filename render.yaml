@@ -1,0 +1,42 @@
+# Render blueprint for the API. Secrets (sync: false) are entered in the Render dashboard.
+services:
+  - type: web
+    name: usama-portfolio-backend
+    runtime: node
+    rootDir: server
+    buildCommand: npm install --omit=dev
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: NODE_VERSION
+        value: "20"
+      - key: DATABASE_URL
+        sync: false
+      - key: JWT_SECRET
+        generateValue: true
+      - key: ADMIN_EMAIL
+        value: hello@usamasheikh.com
+      - key: ADMIN_PASSWORD
+        sync: false
+      - key: ALLOWED_ORIGINS
+        value: https://usamasheikh.com,https://www.usamasheikh.com
+      - key: PUBLIC_API_URL
+        sync: false
+      - key: SMTP_HOST
+        value: smtp.hostinger.com
+      - key: SMTP_PORT
+        value: "465"
+      - key: SMTP_USER
+        value: hello@usamasheikh.com
+      - key: SMTP_PASS
+        sync: false
+      - key: LEADS_TO
+        value: hello@usamasheikh.com
+      - key: GITHUB_TOKEN
+        sync: false
+      - key: GITHUB_REPO
+        value: iamusamasheikh/redesign-v2
+      - key: GITHUB_WORKFLOW
+        value: deploy.yml
+      - key: GITHUB_REF
+        value: main

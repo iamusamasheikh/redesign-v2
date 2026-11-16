@@ -1,0 +1,13 @@
+{
+  "name": "usama-portfolio-web",
+  "version": "2.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node build.mjs",
+    "build:fast": "PRERENDER=0 node build.mjs"
+  },
+  "devDependencies": {
+    "playwright": "1.49.1"
+  }
+}

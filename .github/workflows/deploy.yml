@@ -1,0 +1,48 @@
+# Builds the static site from the live content in the API and uploads it to Hostinger.
+# Runs on every push to main, and when you press "Publish changes" in the admin panel.
+name: Build and deploy site
+
+on:
+  push:
+    branches: [main]
+    paths: ['web/**', 'admin/**', 'content/**', '.github/workflows/deploy.yml']
+  workflow_dispatch:
+
+concurrency:
+  group: deploy
+  cancel-in-progress: false
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install build tools
+        working-directory: web
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Build every page
+        working-directory: web
+        env:
+          API_URL: ${{ secrets.API_URL }}
+          GA_ID: ${{ secrets.GA_ID }}
+        run: node build.mjs
+
+      - name: Upload to Hostinger
+        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+        with:
+          server: ${{ secrets.FTP_SERVER }}
+          username: ${{ secrets.FTP_USERNAME }}
+          password: ${{ secrets.FTP_PASSWORD }}
+          protocol: ${{ secrets.FTP_PROTOCOL || 'ftps' }}
+          local-dir: web/dist/
+          server-dir: ${{ secrets.FTP_DIR || 'public_html/' }}
+          dangerous-clean-slate: false

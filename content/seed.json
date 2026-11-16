@@ -1,0 +1,3630 @@
+{
+ "projects": [
+  {
+   "id": "w-200",
+   "title": "Royal Tech Co",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Consumer Electronics (Pakistan)",
+   "url": "https://royaltechco.com/",
+   "description": "Shopify store for smart watches, earbuds, headphones and smart glasses across Pakistan.",
+   "tags": [
+    "Shopify",
+    "SEO",
+    "eCommerce"
+   ],
+   "results": [
+    "Ongoing SEO & store development"
+   ],
+   "workDone": "Ongoing Shopify development, sale and landing pages, and SEO.",
+   "image": "img/work/royal_tech_co.jpg",
+   "team": false,
+   "slug": "royal-tech-co",
+   "order": 0,
+   "published": true
+  },
+  {
+   "id": "w-201",
+   "title": "Amana Care Management",
+   "category": "WORDPRESS PORTAL",
+   "industry": "Medical Billing & Revenue Cycle Management (USA)",
+   "url": "https://amanacaremanagement.com/",
+   "description": "Medical billing and revenue cycle management company website with service, specialty and blog pages.",
+   "tags": [
+    "WordPress",
+    "Healthcare",
+    "HIPAA"
+   ],
+   "results": [
+    "Full website design & build"
+   ],
+   "workDone": "Website design and development: home, services, specialties, blog and contact pages.",
+   "image": "img/work/amana_care.jpg",
+   "team": false,
+   "slug": "amana-care-management",
+   "order": 1,
+   "published": true
+  },
+  {
+   "id": "w-1",
+   "title": "Local MD NYC",
+   "category": "WORDPRESS & ELEMENTOR",
+   "industry": "Medical Practice (NYC)",
+   "url": "https://www.localmd.nyc/",
+   "description": "A high-performance WordPress platform created with custom Elementor templates.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "ACF"
+   ],
+   "results": [
+    "200% booking surge",
+    "#1 Google local rank"
+   ],
+   "workDone": "Custom WordPress theme, medical schema, booking setup.",
+   "image": "img/work/local_md_nyc.jpg",
+   "team": false,
+   "slug": "local-md-nyc",
+   "order": 2,
+   "published": true
+  },
+  {
+   "id": "w-2",
+   "title": "KA Lending Solutions",
+   "category": "CUSTOM WEB APP",
+   "industry": "Mortgage & Finance",
+   "url": "https://kalendingsolutions.com",
+   "description": "Modern glassmorphism data dashboard built for financial strategy.",
+   "tags": [
+    "React",
+    "Tailwind",
+    "Chart.js"
+   ],
+   "results": [
+    "+180% qualified mortgage leads"
+   ],
+   "workDone": "WordPress web build & quote calculator.",
+   "image": "img/work/ka_lending_solutions.jpg",
+   "team": false,
+   "slug": "ka-lending-solutions",
+   "order": 3,
+   "published": true
+  },
+  {
+   "id": "w-3",
+   "title": "First Point MD",
+   "category": "WORDPRESS PORTAL",
+   "industry": "Medical Services",
+   "url": "https://firstpointmd.com/",
+   "description": "A primary care medical clinic platform with full SEO optimization.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "SEO"
+   ],
+   "results": [
+    "3.2x organic traffic growth"
+   ],
+   "workDone": "Custom Elementor build & SEO content.",
+   "image": "img/work/first_point_md.jpg",
+   "team": false,
+   "slug": "first-point-md",
+   "order": 4,
+   "published": true
+  },
+  {
+   "id": "w-4",
+   "title": "Hamlet Medical Practice",
+   "category": "WORDPRESS & ELEMENTOR",
+   "industry": "Healthcare Clinic",
+   "url": "https://hamletmedicalpractice.com/",
+   "description": "Healthcare clinic website with patient UX focus and mobile booking.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "ACF"
+   ],
+   "results": [
+    "+185% mobile calls"
+   ],
+   "workDone": "Mobile-first redesign & local citations.",
+   "image": "img/work/hamlet_medical_practice.jpg",
+   "team": false,
+   "slug": "hamlet-medical-practice",
+   "order": 5,
+   "published": true
+  },
+  {
+   "id": "w-5",
+   "title": "City Latch Locksmith",
+   "category": "LANDING PAGE",
+   "industry": "Emergency Locksmith",
+   "url": "https://citylatchlocksmith.com/",
+   "description": "High-converting emergency locksmith landing page built for instant calls.",
+   "tags": [
+    "WordPress",
+    "Local PPC",
+    "CSS Grid"
+   ],
+   "results": [
+    "28% call conversion rate"
+   ],
+   "workDone": "99 PageSpeed score & tap-to-call buttons.",
+   "image": "img/work/city_latch_locksmith.jpg",
+   "team": false,
+   "slug": "city-latch-locksmith",
+   "order": 6,
+   "published": true
+  },
+  {
+   "id": "w-6",
+   "title": "FL Cleanup",
+   "category": "SERVICES PORTAL",
+   "industry": "Restoration Services",
+   "url": "https://flcleanup.com/",
+   "description": "Property restoration site for water & storm damage cleanup.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "SEO"
+   ],
+   "results": [
+    "+210% emergency leads"
+   ],
+   "workDone": "Local service page architecture.",
+   "image": "img/work/fl_cleanup.jpg",
+   "team": false,
+   "slug": "fl-cleanup",
+   "order": 7,
+   "published": true
+  },
+  {
+   "id": "w-7",
+   "title": "Drive Click One",
+   "category": "CUSTOM WEB APP",
+   "industry": "Auto Services",
+   "url": "https://driveclickone.com/",
+   "description": "Automotive service booking & instant scheduling web platform.",
+   "tags": [
+    "React",
+    "Node.js",
+    "Stripe"
+   ],
+   "results": [
+    "+150% booking efficiency"
+   ],
+   "workDone": "WordPress web build.",
+   "image": "img/work/drive_click_one.jpg",
+   "team": false,
+   "slug": "drive-click-one",
+   "order": 8,
+   "published": true
+  },
+  {
+   "id": "w-8",
+   "title": "Doe Modellers",
+   "category": "CORPORATE PORTAL",
+   "industry": "BIM & Engineering",
+   "url": "https://doemodellers.com/",
+   "description": "Architectural & BIM modeling corporate showcase platform.",
+   "tags": [
+    "WordPress",
+    "ACF",
+    "Three.js"
+   ],
+   "results": [
+    "Global corporate inquiries"
+   ],
+   "workDone": "WordPress corporate development.",
+   "image": "img/work/doe_modellers.jpg",
+   "team": false,
+   "slug": "doe-modellers",
+   "order": 9,
+   "published": true
+  },
+  {
+   "id": "w-9",
+   "title": "Home Window Tint Miami",
+   "category": "LOCAL SERVICES",
+   "industry": "Window Tinting (Miami)",
+   "url": "https://homewindowtintmiami.com/",
+   "description": "Residential & commercial window tinting service portal.",
+   "tags": [
+    "WordPress",
+    "Local SEO",
+    "CSS Grid"
+   ],
+   "results": [
+    "Top 3 Google local map rank"
+   ],
+   "workDone": "Local SEO & quote calculator.",
+   "image": "img/work/home_window_tint_miami.jpg",
+   "team": false,
+   "slug": "home-window-tint-miami",
+   "order": 10,
+   "published": true
+  },
+  {
+   "id": "w-10",
+   "title": "Willis RV Resort",
+   "category": "HOSPITALITY",
+   "industry": "RV Resort & Camping",
+   "url": "https://willisrvresort.com/",
+   "description": "RV resort booking platform with interactive site reservation.",
+   "tags": [
+    "WordPress",
+    "Booking Engine",
+    "Elementor"
+   ],
+   "results": [
+    "95% peak occupancy rate"
+   ],
+   "workDone": "Reservation engine integration.",
+   "image": "img/work/willis_rv_resort.jpg",
+   "team": false,
+   "slug": "willis-rv-resort",
+   "order": 11,
+   "published": true
+  },
+  {
+   "id": "w-11",
+   "title": "Sheldon Lake RV",
+   "category": "HOSPITALITY",
+   "industry": "Resort & Outdoor",
+   "url": "https://sheldonlakerv.com/",
+   "description": "Outdoor resort & RV spot booking web app.",
+   "tags": [
+    "WordPress",
+    "Booking",
+    "ACF"
+   ],
+   "results": [
+    "#1 rank for regional RV park"
+   ],
+   "workDone": "WordPress reservation system.",
+   "image": "img/work/sheldon_lake_rv.jpg",
+   "team": false,
+   "slug": "sheldon-lake-rv",
+   "order": 12,
+   "published": true
+  },
+  {
+   "id": "w-12",
+   "title": "Torres Medical",
+   "category": "WORDPRESS PORTAL",
+   "industry": "Family Medicine",
+   "url": "https://torres-medical.com/",
+   "description": "Bilingual family clinic website with online scheduling.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "Bilingual"
+   ],
+   "results": [
+    "+140% patient inquiries"
+   ],
+   "workDone": "Multi-language SEO & booking.",
+   "image": "img/work/torres_medical.jpg",
+   "team": false,
+   "slug": "torres-medical",
+   "order": 13,
+   "published": true
+  },
+  {
+   "id": "w-13",
+   "title": "Solved MedCare",
+   "category": "HEALTHCARE PLATFORM",
+   "industry": "Healthcare Solutions",
+   "url": "https://www.solvedmedcare.com/",
+   "description": "Healthcare provider portal and clinical service site.",
+   "tags": [
+    "WordPress",
+    "Portal",
+    "SEO"
+   ],
+   "results": [
+    "2.5x traffic boost"
+   ],
+   "workDone": "Technical SEO audit & WordPress build.",
+   "image": "img/work/solved_medcare.jpg",
+   "team": false,
+   "slug": "solved-medcare",
+   "order": 14,
+   "published": true
+  },
+  {
+   "id": "w-14",
+   "title": "In Shape Spa",
+   "category": "LUXURY MEDSPA",
+   "industry": "Medical Spa & Wellness",
+   "url": "https://inshapespa.com/",
+   "description": "Luxury medical spa website with treatment menu & booking.",
+   "tags": [
+    "WordPress",
+    "Elementor",
+    "Booking"
+   ],
+   "results": [
+    "220% booking growth"
+   ],
+   "workDone": "Visual redesign & booking calendar.",
+   "image": "img/work/in_shape_spa.jpg",
+   "team": false,
+   "slug": "in-shape-spa",
+   "order": 15,
+   "published": true
+  },
+  {
+   "id": "w-15",
+   "title": "Affordable Movers USA",
+   "category": "SERVICES PORTAL",
+   "industry": "Moving & Storage",
+   "url": "https://affordablemoversusa.com/",
+   "description": "Nationwide moving service platform with quote calculator.",
+   "tags": [
+    "WordPress",
+    "Calculator",
+    "Lead Gen"
+   ],
+   "results": [
+    "1,200+ monthly moving quotes"
+   ],
+   "workDone": "Moving quote calculator.",
+   "image": "img/work/affordable_movers_usa.jpg",
+   "team": false,
+   "slug": "affordable-movers-usa",
+   "order": 16,
+   "published": true
+  },
+  {
+   "id": "w-16",
+   "title": "Ghani Medic",
+   "category": "HEALTHCARE",
+   "industry": "Medical Equipment & Supplies",
+   "url": "https://ghanimedic.com/",
+   "description": "Medical equipment catalog and healthcare supply chain portal.",
+   "tags": [
+    "Healthcare",
+    "Medical Supplies",
+    "WordPress",
+    "HIPAA"
+   ],
+   "results": [
+    "1,000+ medical catalog",
+    "Top 3 rank in medical supplies"
+   ],
+   "workDone": "Healthcare portal development & medical schema.",
+   "image": "img/work/ghani_medic.jpg",
+   "team": false,
+   "slug": "ghani-medic",
+   "order": 17,
+   "published": true
+  },
+  {
+   "id": "w-17",
+   "title": "TMS Brooklyn",
+   "category": "HEALTHCARE",
+   "industry": "Mental Health Clinic",
+   "url": "https://tms-brooklyn.com/",
+   "description": "Mental health clinic specializing in TMS treatment.",
+   "tags": [
+    "WordPress",
+    "Mental Health",
+    "SEO"
+   ],
+   "results": [
+    "150% rise in therapy calls"
+   ],
+   "workDone": "SEO content clusters & lead funnel.",
+   "image": null,
+   "team": false,
+   "slug": "tms-brooklyn",
+   "order": 18,
+   "published": true
+  },
+  {
+   "id": "w-18",
+   "title": "Sufyan Afzaal",
+   "category": "CUSTOM WEB APP",
+   "industry": "Personal Brand & Creative Lead",
+   "url": "https://sufyanafzaal.com/",
+   "description": "Recent modern web application built for Creative Lead Sufyan Afzaal.",
+   "tags": [
+    "React",
+    "Tailwind",
+    "Framer"
+   ],
+   "results": [
+    "100% Client Satisfaction",
+    "Sub-1s speed"
+   ],
+   "workDone": "Full design & React/WordPress theme.",
+   "image": "img/work/sufyan_afzaal.jpg",
+   "team": false,
+   "slug": "sufyan-afzaal",
+   "order": 19,
+   "published": true
+  },
+  {
+   "id": "w-19",
+   "title": "Big Apple Medical Care",
+   "category": "HEALTHCARE",
+   "industry": "Urgent Care Clinic",
+   "url": "https://www.bigapplemedicalcare.com/",
+   "description": "Urgent care clinic site designed for quick info access.",
+   "tags": [
+    "WordPress",
+    "Urgent Care",
+    "SEO"
+   ],
+   "results": [
+    "40% increase in walk-ins"
+   ],
+   "workDone": "Medical schema & UX optimization.",
+   "image": "img/work/big_apple_medical_care.jpg",
+   "team": false,
+   "slug": "big-apple-medical-care",
+   "order": 20,
+   "published": true
+  },
+  {
+   "id": "w-20",
+   "title": "Everclear Cosmetics",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Cosmetics & Skincare",
+   "url": "https://evercleancosmetics.com/",
+   "description": "Luxury cosmetics store with beauty product catalog.",
+   "tags": [
+    "Shopify",
+    "Liquid",
+    "Beauty"
+   ],
+   "results": [
+    "+190% sales boost"
+   ],
+   "workDone": "Shopify store setup & CRO.",
+   "image": "img/work/everclear_cosmetics.jpg",
+   "team": false,
+   "slug": "everclear-cosmetics",
+   "order": 21,
+   "published": true
+  },
+  {
+   "id": "w-21",
+   "title": "Raymond Lau FMPC",
+   "category": "HEALTHCARE",
+   "industry": "Family Practice Physician",
+   "url": "https://raymondlaufmpc.com/",
+   "description": "Family practice physician site with online scheduling.",
+   "tags": [
+    "WordPress",
+    "HIPAA",
+    "SEO"
+   ],
+   "results": [
+    "100% HIPAA compliant workflow"
+   ],
+   "workDone": "WordPress theme & security setup.",
+   "image": "img/work/raymond_lau_fmpc.jpg",
+   "team": false,
+   "slug": "raymond-lau-fmpc",
+   "order": 22,
+   "published": true
+  },
+  {
+   "id": "w-22",
+   "title": "Cordial Psychiatry",
+   "category": "HEALTHCARE",
+   "industry": "Psychiatry & Telehealth",
+   "url": "https://cordialpsychiatry.com/",
+   "description": "Psychiatric practice website with telehealth booking.",
+   "tags": [
+    "WordPress",
+    "TeleHealth",
+    "SEO"
+   ],
+   "results": [
+    "+160% virtual consultations"
+   ],
+   "workDone": "Tele-health API link & clean design.",
+   "image": "img/work/cordial_psychiatry.jpg",
+   "team": false,
+   "slug": "cordial-psychiatry",
+   "order": 23,
+   "published": true
+  },
+  {
+   "id": "w-23",
+   "title": "Medloopus",
+   "category": "HEALTHCARE PLATFORM",
+   "industry": "Digital Healthcare",
+   "url": "https://www.medloopus.com/",
+   "description": "Digital health & telemedicine platform.",
+   "tags": [
+    "WordPress",
+    "Telemedicine",
+    "Portal"
+   ],
+   "results": [
+    "Integrated patient care portal"
+   ],
+   "workDone": "WordPress portal development.",
+   "image": "img/work/medloopus.jpg",
+   "team": false,
+   "slug": "medloopus",
+   "order": 24,
+   "published": true
+  },
+  {
+   "id": "w-24",
+   "title": "Access Future Net",
+   "category": "CORPORATE PORTAL",
+   "industry": "IT & Tech Solutions",
+   "url": "https://accessfuture.net/",
+   "description": "IT networking and tech infrastructure site.",
+   "tags": [
+    "WordPress",
+    "IT",
+    "Networking"
+   ],
+   "results": [
+    "Corporate client acquisition"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/access_future_net.jpg",
+   "team": false,
+   "slug": "access-future-net",
+   "order": 25,
+   "published": true
+  },
+  {
+   "id": "w-25",
+   "title": "V360 PK",
+   "category": "DIGITAL AGENCY",
+   "industry": "Digital Agency & Media",
+   "url": "https://v360.pk/",
+   "description": "360 media production & agency platform.",
+   "tags": [
+    "WordPress",
+    "Media",
+    "Agency"
+   ],
+   "results": [
+    "+150% agency lead inquiries"
+   ],
+   "workDone": "WordPress site & video portfolio.",
+   "image": "img/work/v360_pk.jpg",
+   "team": false,
+   "slug": "v360-pk",
+   "order": 26,
+   "published": true
+  },
+  {
+   "id": "w-26",
+   "title": "Dr. Sadia Shah DPM",
+   "category": "HEALTHCARE",
+   "industry": "Podiatry Specialist",
+   "url": "https://www.sadiashahdpm.com/",
+   "description": "Podiatrist clinic site with appointment scheduling.",
+   "tags": [
+    "WordPress",
+    "Podiatry",
+    "SEO"
+   ],
+   "results": [
+    "Top 3 local Google rank"
+   ],
+   "workDone": "Local SEO citations & intake forms.",
+   "image": "img/work/dr_sadia_shah_dpm.jpg",
+   "team": false,
+   "slug": "dr-sadia-shah-dpm",
+   "order": 27,
+   "published": true
+  },
+  {
+   "id": "w-27",
+   "title": "MedicD",
+   "category": "HEALTHCARE",
+   "industry": "Medical Solutions",
+   "url": "https://medicd.com/",
+   "description": "Medical practice technology and patient service site.",
+   "tags": [
+    "WordPress",
+    "Medical",
+    "Healthcare"
+   ],
+   "results": [
+    "Streamlined clinic workflows"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/medicd.jpg",
+   "team": false,
+   "slug": "medicd",
+   "order": 28,
+   "published": true
+  },
+  {
+   "id": "w-28",
+   "title": "Sincerely Skin MedSpa",
+   "category": "LUXURY MEDSPA",
+   "industry": "Medical Aesthetics",
+   "url": "https://sincerelyskinmedspa.com/",
+   "description": "Aesthetics clinic and skin medspa website.",
+   "tags": [
+    "WordPress",
+    "MedSpa",
+    "Aesthetics"
+   ],
+   "results": [
+    "+180% treatment inquiries"
+   ],
+   "workDone": "High-end UI design & booking.",
+   "image": "img/work/sincerely_skin_medspa.jpg",
+   "team": false,
+   "slug": "sincerely-skin-medspa",
+   "order": 29,
+   "published": true
+  },
+  {
+   "id": "w-29",
+   "title": "Alphalete Athletics",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Gym Wear & Activewear",
+   "url": "https://alphaleteathletics.com/",
+   "description": "Global high-performance gym wear e-store.",
+   "tags": [
+    "Shopify",
+    "Liquid",
+    "Fitness"
+   ],
+   "results": [
+    "50K+ simultaneous flash sale capacity"
+   ],
+   "workDone": "Shopify store speed hardening.",
+   "image": "img/work/alphalete_athletics.jpg",
+   "team": true,
+   "slug": "alphalete-athletics",
+   "order": 30,
+   "published": true
+  },
+  {
+   "id": "w-30",
+   "title": "Revive Superfoods",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Organic Food & Smoothies",
+   "url": "https://revivesuperfoods.com/",
+   "description": "Organic smoothie & meal kit delivery store.",
+   "tags": [
+    "Shopify",
+    "Subscriptions",
+    "Food"
+   ],
+   "results": [
+    "+230% monthly recurring revenue"
+   ],
+   "workDone": "Subscription builder integration.",
+   "image": "img/work/revive_superfoods.jpg",
+   "team": false,
+   "slug": "revive-superfoods",
+   "order": 31,
+   "published": true
+  },
+  {
+   "id": "w-31",
+   "title": "Yellow Images",
+   "category": "CUSTOM WEB APP",
+   "industry": "PSD Mockups & Assets",
+   "url": "https://yellowimages.com/",
+   "description": "Digital marketplace for object PSD mockups & 3D assets.",
+   "tags": [
+    "React",
+    "Node.js",
+    "Digital Assets"
+   ],
+   "results": [
+    "1M+ asset downloads"
+   ],
+   "workDone": "Digital download platform optimization.",
+   "image": "img/work/yellow_images.jpg",
+   "team": true,
+   "slug": "yellow-images",
+   "order": 32,
+   "published": true
+  },
+  {
+   "id": "w-32",
+   "title": "Cdiscount Mega Mall",
+   "category": "WOOCOMMERCE",
+   "industry": "Physical Products Mall",
+   "url": "https://www.cdiscount.com/",
+   "description": "Mega eCommerce platform for physical goods.",
+   "tags": [
+    "WooCommerce",
+    "Stripe",
+    "Mega Mall"
+   ],
+   "results": [
+    "High-speed search catalog"
+   ],
+   "workDone": "Large catalog architecture.",
+   "image": "img/work/cdiscount_mega_mall.jpg",
+   "team": true,
+   "slug": "cdiscount-mega-mall",
+   "order": 33,
+   "published": true
+  },
+  {
+   "id": "w-33",
+   "title": "The Online Sofa Shop",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Furniture & Sofas (UK)",
+   "url": "https://theonlinesofashop.co.uk/",
+   "description": "Custom sofas & luxury furniture e-store in UK.",
+   "tags": [
+    "Shopify",
+    "Furniture",
+    "UK"
+   ],
+   "results": [
+    "+280% online sofa sales"
+   ],
+   "workDone": "Shopify custom product configurator.",
+   "image": "img/work/the_online_sofa_shop.jpg",
+   "team": false,
+   "slug": "the-online-sofa-shop",
+   "order": 34,
+   "published": true
+  },
+  {
+   "id": "w-34",
+   "title": "Majestic Pure",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Essential Oils & Beauty",
+   "url": "https://majesticpure.com/",
+   "description": "Natural cosmeceuticals and essential oils store.",
+   "tags": [
+    "Shopify",
+    "Essential Oils",
+    "Beauty"
+   ],
+   "results": [
+    "Organic traffic up 3.5x"
+   ],
+   "workDone": "Shopify store setup & SEO.",
+   "image": "img/work/majestic_pure.jpg",
+   "team": false,
+   "slug": "majestic-pure",
+   "order": 35,
+   "published": true
+  },
+  {
+   "id": "w-35",
+   "title": "Botanic Hearth",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Botanical Skincare",
+   "url": "https://botanichearth.com/",
+   "description": "Botanical skincare and hair care products.",
+   "tags": [
+    "Shopify",
+    "Skincare",
+    "Botanical"
+   ],
+   "results": [
+    "4.2x ROAS on social ads"
+   ],
+   "workDone": "Shopify theme refinement.",
+   "image": "img/work/botanic_hearth.jpg",
+   "team": false,
+   "slug": "botanic-hearth",
+   "order": 36,
+   "published": true
+  },
+  {
+   "id": "w-36",
+   "title": "Nexon Botanics",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Organic Essential Oils",
+   "url": "https://nexonbotanics.com/",
+   "description": "Organic essential oils and aromatherapy products.",
+   "tags": [
+    "Shopify",
+    "Aromatherapy",
+    "Oils"
+   ],
+   "results": [
+    "+190% repeat purchase rate"
+   ],
+   "workDone": "Shopify store setup & CRO.",
+   "image": "img/work/nexon_botanics.jpg",
+   "team": false,
+   "slug": "nexon-botanics",
+   "order": 37,
+   "published": true
+  },
+  {
+   "id": "w-37",
+   "title": "Obsession Outlet",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Luxury Beds & Furniture",
+   "url": "https://obsessionoutlet.com/",
+   "description": "Luxury custom beds and home furniture store.",
+   "tags": [
+    "Shopify",
+    "Furniture",
+    "Beds"
+   ],
+   "results": [
+    "+310% online order growth"
+   ],
+   "workDone": "Shopify store build & catalog sync.",
+   "image": "img/work/obsession_outlet.jpg",
+   "team": false,
+   "slug": "obsession-outlet",
+   "order": 38,
+   "published": true
+  },
+  {
+   "id": "w-38",
+   "title": "Deals Express PK",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Footwear & Shoes",
+   "url": "https://dealsexpress.pk/",
+   "description": "Online footwear and shoes store in Pakistan.",
+   "tags": [
+    "Shopify",
+    "Shoes",
+    "Pakistan"
+   ],
+   "results": [
+    "+160% daily order volume"
+   ],
+   "workDone": "Shopify store setup & local payment gateway.",
+   "image": "img/work/deals_express_pk.jpg",
+   "team": false,
+   "slug": "deals-express-pk",
+   "order": 39,
+   "published": true
+  },
+  {
+   "id": "w-39",
+   "title": "Apple Pakistan Dealer",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Consumer Electronics",
+   "url": "https://applepakistan.com.pk/",
+   "description": "Apple products & accessories online dealer platform.",
+   "tags": [
+    "Shopify",
+    "Electronics",
+    "Apple"
+   ],
+   "results": [
+    "Sub-second product search"
+   ],
+   "workDone": "Shopify theme customization & catalog setup.",
+   "image": "img/work/apple_pakistan_dealer.jpg",
+   "team": false,
+   "slug": "apple-pakistan-dealer",
+   "order": 40,
+   "published": true
+  },
+  {
+   "id": "w-40",
+   "title": "Crumb Pet",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Pet Products",
+   "url": "https://crumb.pet/",
+   "description": "Custom Shopify store for pet products with subscriptions.",
+   "tags": [
+    "Shopify",
+    "Liquid",
+    "Pet"
+   ],
+   "results": [
+    "300% organic traffic surge"
+   ],
+   "workDone": "Shopify Liquid customization.",
+   "image": "img/work/crumb_pet.jpg",
+   "team": false,
+   "slug": "crumb-pet",
+   "order": 41,
+   "published": true
+  },
+  {
+   "id": "w-41",
+   "title": "Corio PK",
+   "category": "WOOCOMMERCE",
+   "industry": "Luxury Leather Shoes",
+   "url": "https://corio.pk/",
+   "description": "Opulence Redefined: Luxury handcrafted leather shoe store.",
+   "tags": [
+    "WooCommerce",
+    "Stripe",
+    "CSS Grid"
+   ],
+   "results": [
+    "+240% monthly online sales"
+   ],
+   "workDone": "Shopify store setup.",
+   "image": "img/work/corio_pk.jpg",
+   "team": false,
+   "slug": "corio-pk",
+   "order": 42,
+   "published": true
+  },
+  {
+   "id": "w-42",
+   "title": "Zephyr Clothing",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Luxury Apparel",
+   "url": "https://zephyr.com.pk/",
+   "description": "High-fashion apparel brand store with lookbook.",
+   "tags": [
+    "Shopify",
+    "Fashion",
+    "Luxury"
+   ],
+   "results": [
+    "#1 ranking for luxury fashion"
+   ],
+   "workDone": "Shopify theme & SEO.",
+   "image": "img/work/zephyr_clothing.jpg",
+   "team": false,
+   "slug": "zephyr-clothing",
+   "order": 43,
+   "published": true
+  },
+  {
+   "id": "w-43",
+   "title": "Blue Tulip AE",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Luxury Flowers & Gifts (UAE)",
+   "url": "https://bluetulip.ae/",
+   "description": "Luxury flower & gift store with Arabic SEO.",
+   "tags": [
+    "Shopify",
+    "UAE",
+    "Arabic SEO"
+   ],
+   "results": [
+    "3.8x holiday ROAS"
+   ],
+   "workDone": "Multi-currency setup & bilingual SEO.",
+   "image": "img/work/blue_tulip_ae.jpg",
+   "team": false,
+   "slug": "blue-tulip-ae",
+   "order": 44,
+   "published": true
+  },
+  {
+   "id": "w-44",
+   "title": "Nova Nest Essentials",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Mega Mall E-Store",
+   "url": "https://novanestessentials.com/",
+   "description": "Multi-category home & lifestyle eCommerce store.",
+   "tags": [
+    "Shopify",
+    "Mega Mall"
+   ],
+   "results": [
+    "2,000+ catalog items"
+   ],
+   "workDone": "Shopify store architecture.",
+   "image": "img/work/nova_nest_essentials.jpg",
+   "team": false,
+   "slug": "nova-nest-essentials",
+   "order": 45,
+   "published": true
+  },
+  {
+   "id": "w-47",
+   "title": "BluSSS",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Sensitive Skincare",
+   "url": "https://blusss.com/",
+   "description": "Skincare store for sensitive skin types.",
+   "tags": [
+    "Shopify",
+    "Skincare",
+    "Beauty"
+   ],
+   "results": [
+    "3.4x ROAS on Meta ads"
+   ],
+   "workDone": "Shopify theme & CRO.",
+   "image": "img/work/blusss.jpg",
+   "team": false,
+   "slug": "blusss",
+   "order": 46,
+   "published": true
+  },
+  {
+   "id": "w-48",
+   "title": "Easy Commerce PK",
+   "category": "CUSTOM WEB APP",
+   "industry": "eCommerce Courses",
+   "url": "https://easycommerce.pk/",
+   "description": "Digital learning platform for eCommerce courses.",
+   "tags": [
+    "React",
+    "LMS",
+    "Stripe"
+   ],
+   "results": [
+    "5,000+ students enrolled"
+   ],
+   "workDone": "LMS portal setup.",
+   "image": "img/work/easy_commerce_pk.jpg",
+   "team": false,
+   "slug": "easy-commerce-pk",
+   "order": 47,
+   "published": true
+  },
+  {
+   "id": "w-49",
+   "title": "Amazing Hair Saviour",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Hair Care Oils",
+   "url": "https://amazinghairsaviour.com/",
+   "description": "Natural hair growth oils eCommerce store.",
+   "tags": [
+    "Shopify",
+    "Hair Oils",
+    "Beauty"
+   ],
+   "results": [
+    "4x revenue growth"
+   ],
+   "workDone": "Shopify custom theme.",
+   "image": "img/work/amazing_hair_saviour.jpg",
+   "team": false,
+   "slug": "amazing-hair-saviour",
+   "order": 48,
+   "published": true
+  },
+  {
+   "id": "w-51",
+   "title": "Herbal Edge CA",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Herbal Products (Canada)",
+   "url": "https://herbaledge.ca/",
+   "description": "Canadian herbal health products store.",
+   "tags": [
+    "Shopify",
+    "Herbal",
+    "Canada"
+   ],
+   "results": [
+    "Expanded nationwide delivery"
+   ],
+   "workDone": "Shopify store customization.",
+   "image": "img/work/herbal_edge_ca.jpg",
+   "team": false,
+   "slug": "herbal-edge-ca",
+   "order": 49,
+   "published": true
+  },
+  {
+   "id": "w-52",
+   "title": "The Innate Life",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Natural Beauty",
+   "url": "https://theinnatelife.com/",
+   "description": "Organic hair care brand with subscription boxes.",
+   "tags": [
+    "Shopify",
+    "Beauty",
+    "Natural"
+   ],
+   "results": [
+    "4x organic traffic"
+   ],
+   "workDone": "Shopify theme & blog strategy.",
+   "image": "img/work/the_innate_life.jpg",
+   "team": false,
+   "slug": "the-innate-life",
+   "order": 50,
+   "published": true
+  },
+  {
+   "id": "w-53",
+   "title": "TCG Player",
+   "category": "CUSTOM WEB APP",
+   "industry": "Game Cards & Collectibles",
+   "url": "https://www.tcgplayer.com/",
+   "description": "Collectibles & trading card marketplace portal.",
+   "tags": [
+    "React",
+    "Marketplace"
+   ],
+   "results": [
+    "Optimized card search catalog"
+   ],
+   "workDone": "E-store optimization.",
+   "image": "img/work/tcg_player.jpg",
+   "team": true,
+   "slug": "tcg-player",
+   "order": 51,
+   "published": true
+  },
+  {
+   "id": "w-54",
+   "title": "Lululemon ME",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Luxury Activewear (UAE)",
+   "url": "https://www.lululemon.me/en-ae",
+   "description": "Luxury activewear & yoga apparel store in Middle East.",
+   "tags": [
+    "Shopify",
+    "Luxury",
+    "Activewear"
+   ],
+   "results": [
+    "Sub-1s mobile page speed"
+   ],
+   "workDone": "Shopify store optimization.",
+   "image": "img/work/lululemon_me.jpg",
+   "team": true,
+   "slug": "lululemon-me",
+   "order": 52,
+   "published": true
+  },
+  {
+   "id": "w-55",
+   "title": "ELO Shopping",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Fashion Clothing",
+   "url": "https://www.elo.shopping/",
+   "description": "Export leftover fashion apparel mega store.",
+   "tags": [
+    "Shopify",
+    "Fashion",
+    "Apparel"
+   ],
+   "results": [
+    "20,000+ daily orders"
+   ],
+   "workDone": "High-volume Shopify store build.",
+   "image": "img/work/elo_shopping.jpg",
+   "team": false,
+   "slug": "elo-shopping",
+   "order": 53,
+   "published": true
+  },
+  {
+   "id": "w-56",
+   "title": "Mijo Hair",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Hair Care",
+   "url": "https://mijohair.com/",
+   "description": "Hair care and extension products online store.",
+   "tags": [
+    "Shopify",
+    "Hair Care"
+   ],
+   "results": [
+    "+210% social traffic conversion"
+   ],
+   "workDone": "Shopify theme & affiliate tracking.",
+   "image": "img/work/mijo_hair.jpg",
+   "team": false,
+   "slug": "mijo-hair",
+   "order": 54,
+   "published": true
+  },
+  {
+   "id": "w-57",
+   "title": "Shop in Ireland",
+   "category": "WOOCOMMERCE",
+   "industry": "eCommerce Marketplace",
+   "url": "https://www.shopinireland.ie/",
+   "description": "Ireland's multi-vendor marketplace with 500+ vendors.",
+   "tags": [
+    "WooCommerce",
+    "Dokan",
+    "Stripe"
+   ],
+   "results": [
+    "500+ vendors onboarded"
+   ],
+   "workDone": "Dokan multi-vendor store setup.",
+   "image": "img/work/shop_in_ireland.jpg",
+   "team": false,
+   "slug": "shop-in-ireland",
+   "order": 55,
+   "published": true
+  },
+  {
+   "id": "w-58",
+   "title": "Market Street IE",
+   "category": "WOOCOMMERCE",
+   "industry": "Irish Marketplace",
+   "url": "https://marketstreet.ie/",
+   "description": "Irish local artisan & craft marketplace.",
+   "tags": [
+    "WooCommerce",
+    "Dokan"
+   ],
+   "results": [
+    "Streamlined local artisan sales"
+   ],
+   "workDone": "WooCommerce Dokan setup.",
+   "image": "img/work/market_street_ie.jpg",
+   "team": false,
+   "slug": "market-street-ie",
+   "order": 56,
+   "published": true
+  },
+  {
+   "id": "w-59",
+   "title": "Antlots",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Marketplace & E-Store",
+   "url": "https://antlots.com/",
+   "description": "E-Commerce store platform for global goods.",
+   "tags": [
+    "Shopify",
+    "Marketplace"
+   ],
+   "results": [
+    "High-speed search catalog"
+   ],
+   "workDone": "Store optimization.",
+   "image": "img/work/antlots.jpg",
+   "team": false,
+   "slug": "antlots",
+   "order": 57,
+   "published": true
+  },
+  {
+   "id": "w-60",
+   "title": "The Conscious Community",
+   "category": "WORDPRESS PORTAL",
+   "industry": "Therapist & Wellness",
+   "url": "https://theconscious.community/",
+   "description": "Holistic therapy and wellness community platform.",
+   "tags": [
+    "WordPress",
+    "Wellness"
+   ],
+   "results": [
+    "Integrated community booking"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/the_conscious_community.jpg",
+   "team": false,
+   "slug": "the-conscious-community",
+   "order": 58,
+   "published": true
+  },
+  {
+   "id": "w-61",
+   "title": "Immowelt Germany",
+   "category": "CUSTOM WEB APP",
+   "industry": "Real Estate Portal (Germany)",
+   "url": "https://www.immowelt.de/",
+   "description": "German real estate property search portal.",
+   "tags": [
+    "React",
+    "Real Estate"
+   ],
+   "results": [
+    "Millions of property listings"
+   ],
+   "workDone": "Portal performance tuning.",
+   "image": "img/work/immowelt_germany.jpg",
+   "team": true,
+   "slug": "immowelt-germany",
+   "order": 59,
+   "published": true
+  },
+  {
+   "id": "w-62",
+   "title": "Immobilienscout24",
+   "category": "CUSTOM WEB APP",
+   "industry": "Real Estate Portal",
+   "url": "https://www.immobilienscout24.de/",
+   "description": "Leading German real estate marketplace.",
+   "tags": [
+    "React",
+    "Real Estate"
+   ],
+   "results": [
+    "High volume search architecture"
+   ],
+   "workDone": "Property search UX optimization.",
+   "image": "img/work/immobilienscout24.jpg",
+   "team": true,
+   "slug": "immobilienscout24",
+   "order": 60,
+   "published": true
+  },
+  {
+   "id": "w-64",
+   "title": "Allesgo Mega Mall",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Mega Mall E-Store",
+   "url": "https://www.allesgo.com/",
+   "description": "Mega online mall for physical products.",
+   "tags": [
+    "Shopify",
+    "Mega Mall"
+   ],
+   "results": [
+    "Expanded product catalog"
+   ],
+   "workDone": "Store architecture.",
+   "image": null,
+   "team": false,
+   "slug": "allesgo-mega-mall",
+   "order": 61,
+   "published": true
+  },
+  {
+   "id": "w-65",
+   "title": "Soul Canvas IE",
+   "category": "WORDPRESS PORTAL",
+   "industry": "Therapist & Wellness",
+   "url": "https://soulcanvas.ie/",
+   "description": "Therapist and holistic mental health website.",
+   "tags": [
+    "WordPress",
+    "Therapist"
+   ],
+   "results": [
+    "+140% appointment inquiries"
+   ],
+   "workDone": "WordPress web build & booking.",
+   "image": "img/work/soul_canvas_ie.jpg",
+   "team": false,
+   "slug": "soul-canvas-ie",
+   "order": 62,
+   "published": true
+  },
+  {
+   "id": "w-68",
+   "title": "Ravi Exchange",
+   "category": "CORPORATE PORTAL",
+   "industry": "Financial Currency Exchange",
+   "url": "https://raviexchange.com/",
+   "description": "Currency exchange & financial services platform.",
+   "tags": [
+    "WordPress",
+    "Finance"
+   ],
+   "results": [
+    "Secure transaction portal"
+   ],
+   "workDone": "WordPress security hardening & web build.",
+   "image": "img/work/ravi_exchange.jpg",
+   "team": false,
+   "slug": "ravi-exchange",
+   "order": 63,
+   "published": true
+  },
+  {
+   "id": "w-69",
+   "title": "Paragon Exchange",
+   "category": "CORPORATE PORTAL",
+   "industry": "Financial Exchange",
+   "url": "https://paragonexchange.pk/",
+   "description": "Financial currency exchange platform.",
+   "tags": [
+    "WordPress",
+    "Finance"
+   ],
+   "results": [
+    "Streamlined currency rates"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/paragon_exchange.jpg",
+   "team": false,
+   "slug": "paragon-exchange",
+   "order": 64,
+   "published": true
+  },
+  {
+   "id": "w-71",
+   "title": "Daairah Agency",
+   "category": "DIGITAL AGENCY",
+   "industry": "Digital Agency",
+   "url": "http://daairah.com/",
+   "description": "Digital agency & media strategy platform.",
+   "tags": [
+    "WordPress",
+    "Media"
+   ],
+   "results": [
+    "Client acquisition growth"
+   ],
+   "workDone": "WordPress theme customization.",
+   "image": "img/work/daairah_agency.jpg",
+   "team": false,
+   "slug": "daairah-agency",
+   "order": 65,
+   "published": true
+  },
+  {
+   "id": "w-72",
+   "title": "EINET UK",
+   "category": "CORPORATE PORTAL",
+   "industry": "IT & Network Services",
+   "url": "https://einet.co.uk/",
+   "description": "IT networking & telecom services in UK.",
+   "tags": [
+    "WordPress",
+    "IT",
+    "Telecom"
+   ],
+   "results": [
+    "Corporate client onboarding"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/einet_uk.jpg",
+   "team": false,
+   "slug": "einet-uk",
+   "order": 66,
+   "published": true
+  },
+  {
+   "id": "w-73",
+   "title": "Blinkstore",
+   "category": "CUSTOM WEB APP",
+   "industry": "Print on Demand",
+   "url": "https://blinkstore.in/",
+   "description": "Print on demand e-store creation platform.",
+   "tags": [
+    "React",
+    "Node.js",
+    "Print"
+   ],
+   "results": [
+    "Thousands of active print stores"
+   ],
+   "workDone": "E-store portal optimization.",
+   "image": "img/work/blinkstore.jpg",
+   "team": false,
+   "slug": "blinkstore",
+   "order": 67,
+   "published": true
+  },
+  {
+   "id": "w-75",
+   "title": "Black Car Service CA",
+   "category": "SERVICES PORTAL",
+   "industry": "Luxury Chauffeur (Canada)",
+   "url": "https://blackcarservice.ca/",
+   "description": "Luxury private chauffeur & airport limo booking.",
+   "tags": [
+    "WordPress",
+    "Rental",
+    "Limo"
+   ],
+   "results": [
+    "+190% reservations"
+   ],
+   "workDone": "Fleet booking engine setup.",
+   "image": "img/work/black_car_service_ca.jpg",
+   "team": false,
+   "slug": "black-car-service-ca",
+   "order": 68,
+   "published": true
+  },
+  {
+   "id": "w-76",
+   "title": "Toronto Airport Limo",
+   "category": "SERVICES PORTAL",
+   "industry": "LIMO Services",
+   "url": "https://www.torontoairportlimo.com/",
+   "description": "Toronto airport limo reservation platform.",
+   "tags": [
+    "WordPress",
+    "Limo",
+    "Toronto"
+   ],
+   "results": [
+    "3x reservation growth"
+   ],
+   "workDone": "Flight tracking reservation engine.",
+   "image": "img/work/toronto_airport_limo.jpg",
+   "team": false,
+   "slug": "toronto-airport-limo",
+   "order": 69,
+   "published": true
+  },
+  {
+   "id": "w-77",
+   "title": "Platinum Rides CA",
+   "category": "SERVICES PORTAL",
+   "industry": "Luxury Car Services",
+   "url": "https://platinumrides.ca/",
+   "description": "Luxury car rental & chauffeur service platform.",
+   "tags": [
+    "WordPress",
+    "Luxury Cars"
+   ],
+   "results": [
+    "+170% booking growth"
+   ],
+   "workDone": "Car booking engine build.",
+   "image": "img/work/platinum_rides_ca.jpg",
+   "team": false,
+   "slug": "platinum-rides-ca",
+   "order": 70,
+   "published": true
+  },
+  {
+   "id": "w-78",
+   "title": "Airfleet Limo",
+   "category": "SERVICES PORTAL",
+   "industry": "Limo & Taxi Services",
+   "url": "https://www.airfleetlimo.ca/",
+   "description": "Airport taxi & limousine booking portal.",
+   "tags": [
+    "WordPress",
+    "Limo",
+    "Taxi"
+   ],
+   "results": [
+    "+200% online reservations"
+   ],
+   "workDone": "WordPress transport booking.",
+   "image": "img/work/airfleet_limo.jpg",
+   "team": false,
+   "slug": "airfleet-limo",
+   "order": 71,
+   "published": true
+  },
+  {
+   "id": "w-79",
+   "title": "Flat Rate Airport Limo",
+   "category": "SERVICES PORTAL",
+   "industry": "Flat Rate Limo",
+   "url": "https://flatrateairportlimo.ca/",
+   "description": "Flat rate airport car and limousine service.",
+   "tags": [
+    "WordPress",
+    "Limo",
+    "Flat Rate"
+   ],
+   "results": [
+    "Fixed pricing calculator tool"
+   ],
+   "workDone": "Custom booking calculator.",
+   "image": "img/work/flat_rate_airport_limo.jpg",
+   "team": false,
+   "slug": "flat-rate-airport-limo",
+   "order": 72,
+   "published": true
+  },
+  {
+   "id": "w-80",
+   "title": "Next Level Livery",
+   "category": "SERVICES PORTAL",
+   "industry": "Luxury Livery Services",
+   "url": "https://nextlevellivery.ca/",
+   "description": "Executive livery and private transport service.",
+   "tags": [
+    "WordPress",
+    "Livery"
+   ],
+   "results": [
+    "+140% corporate accounts"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/next_level_livery.jpg",
+   "team": false,
+   "slug": "next-level-livery",
+   "order": 73,
+   "published": true
+  },
+  {
+   "id": "w-81",
+   "title": "Coverstore",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Covers & Protection Listing",
+   "url": "https://www.coverstore.com/",
+   "description": "Outdoor patio & vehicle covers online store.",
+   "tags": [
+    "Shopify",
+    "Covers"
+   ],
+   "results": [
+    "Large inventory search"
+   ],
+   "workDone": "eCommerce store optimization.",
+   "image": "img/work/coverstore.jpg",
+   "team": false,
+   "slug": "coverstore",
+   "order": 74,
+   "published": true
+  },
+  {
+   "id": "w-82",
+   "title": "Salar FZE",
+   "category": "CORPORATE PORTAL",
+   "industry": "Telecommunications (UAE)",
+   "url": "https://salarfze.ae/",
+   "description": "Corporate telecommunications portal in UAE.",
+   "tags": [
+    "WordPress",
+    "UAE",
+    "Telecom"
+   ],
+   "results": [
+    "Positioned top UAE telecom partner"
+   ],
+   "workDone": "Corporate theme layout.",
+   "image": "img/work/salar_fze.jpg",
+   "team": false,
+   "slug": "salar-fze",
+   "order": 75,
+   "published": true
+  },
+  {
+   "id": "w-83",
+   "title": "Cyberson LLC",
+   "category": "CORPORATE PORTAL",
+   "industry": "IT & Telecommunication",
+   "url": "https://cybersonllc.com/",
+   "description": "IT services & telecom solutions portal.",
+   "tags": [
+    "WordPress",
+    "IT",
+    "Telecom"
+   ],
+   "results": [
+    "Enterprise contract leads"
+   ],
+   "workDone": "Corporate WordPress build.",
+   "image": "img/work/cyberson_llc.jpg",
+   "team": false,
+   "slug": "cyberson-llc",
+   "order": 76,
+   "published": true
+  },
+  {
+   "id": "w-85",
+   "title": "Exco LLC",
+   "category": "CORPORATE PORTAL",
+   "industry": "Trading & Sourcing",
+   "url": "https://excollc.ae/",
+   "description": "Corporate trading & sourcing solutions platform.",
+   "tags": [
+    "WordPress",
+    "Sourcing"
+   ],
+   "results": [
+    "Expanded Middle East trading"
+   ],
+   "workDone": "WordPress theme customization.",
+   "image": "img/work/exco_llc.jpg",
+   "team": false,
+   "slug": "exco-llc",
+   "order": 77,
+   "published": true
+  },
+  {
+   "id": "w-86",
+   "title": "Baroksa Industrial",
+   "category": "CORPORATE PORTAL",
+   "industry": "Industrial Equipment",
+   "url": "https://baroksa.com/",
+   "description": "Industrial products & equipment trading portal.",
+   "tags": [
+    "WordPress",
+    "Industrial"
+   ],
+   "results": [
+    "Global equipment inquiries"
+   ],
+   "workDone": "Corporate catalog build.",
+   "image": "img/work/baroksa_industrial.jpg",
+   "team": false,
+   "slug": "baroksa-industrial",
+   "order": 78,
+   "published": true
+  },
+  {
+   "id": "w-87",
+   "title": "Exoil Energy",
+   "category": "CORPORATE PORTAL",
+   "industry": "Trading Solution & Energy",
+   "url": "https://exoilenergy.com/",
+   "description": "Energy trading and oil solutions corporate website.",
+   "tags": [
+    "WordPress",
+    "Energy"
+   ],
+   "results": [
+    "Corporate energy partner"
+   ],
+   "workDone": "WordPress web build.",
+   "image": "img/work/exoil_energy.jpg",
+   "team": false,
+   "slug": "exoil-energy",
+   "order": 79,
+   "published": true
+  },
+  {
+   "id": "w-88",
+   "title": "Yasa CSP",
+   "category": "CORPORATE PORTAL",
+   "industry": "Corporate Trading",
+   "url": "https://yasacsp.com/",
+   "description": "Trading & corporate service provider portal.",
+   "tags": [
+    "WordPress",
+    "Corporate"
+   ],
+   "results": [
+    "Streamlined client inquiries"
+   ],
+   "workDone": "WordPress development.",
+   "image": null,
+   "team": false,
+   "slug": "yasa-csp",
+   "order": 80,
+   "published": true
+  },
+  {
+   "id": "w-89",
+   "title": "Dats Interior",
+   "category": "CORPORATE PORTAL",
+   "industry": "Interior Designers",
+   "url": "https://datsinterior.com/",
+   "description": "Luxury interior design & architectural portfolio.",
+   "tags": [
+    "WordPress",
+    "Interior Design"
+   ],
+   "results": [
+    "+180% high-end interior leads"
+   ],
+   "workDone": "Visual portfolio development.",
+   "image": "img/work/dats_interior.jpg",
+   "team": false,
+   "slug": "dats-interior",
+   "order": 81,
+   "published": true
+  },
+  {
+   "id": "w-91",
+   "title": "Brazier & Co",
+   "category": "CORPORATE PORTAL",
+   "industry": "Soft Toys Import & Export",
+   "url": "https://www.brazierandco.co.uk/",
+   "description": "Soft toys import & export corporate portal.",
+   "tags": [
+    "WordPress",
+    "Toys",
+    "Import"
+   ],
+   "results": [
+    "UK & global distribution deals"
+   ],
+   "workDone": "WordPress corporate build.",
+   "image": "img/work/brazier_co.jpg",
+   "team": false,
+   "slug": "brazier-co",
+   "order": 82,
+   "published": true
+  },
+  {
+   "id": "w-93",
+   "title": "Kiwi Imprints",
+   "category": "CORPORATE PORTAL",
+   "industry": "Printing Services",
+   "url": "https://kiwiimprints.com/",
+   "description": "Custom printing & branding merchandise site.",
+   "tags": [
+    "WordPress",
+    "Printing"
+   ],
+   "results": [
+    "High volume print orders"
+   ],
+   "workDone": "WordPress web build & quote tool.",
+   "image": "img/work/kiwi_imprints.jpg",
+   "team": false,
+   "slug": "kiwi-imprints",
+   "order": 83,
+   "published": true
+  },
+  {
+   "id": "w-94",
+   "title": "Las Colinas Printing",
+   "category": "CORPORATE PORTAL",
+   "industry": "Commercial Printing",
+   "url": "https://www.lascolinasprinting.com/",
+   "description": "Commercial printing and marketing material site.",
+   "tags": [
+    "WordPress",
+    "Commercial"
+   ],
+   "results": [
+    "Corporate print order management"
+   ],
+   "workDone": "WordPress catalog build.",
+   "image": "img/work/las_colinas_printing.jpg",
+   "team": false,
+   "slug": "las-colinas-printing",
+   "order": 84,
+   "published": true
+  },
+  {
+   "id": "w-95",
+   "title": "IBS Eleven",
+   "category": "CORPORATE PORTAL",
+   "industry": "Corporate Services",
+   "url": "http://ibseleven.com/",
+   "description": "Corporate management and advisory services site.",
+   "tags": [
+    "WordPress",
+    "Advisory"
+   ],
+   "results": [
+    "Streamlined client onboarding"
+   ],
+   "workDone": "WordPress site build.",
+   "image": "img/work/ibs_eleven.jpg",
+   "team": false,
+   "slug": "ibs-eleven",
+   "order": 85,
+   "published": true
+  },
+  {
+   "id": "w-96",
+   "title": "The Catalyst FZE",
+   "category": "CORPORATE PORTAL",
+   "industry": "Corporate Consultancy (UAE)",
+   "url": "https://thecatalystfze.com/",
+   "description": "Business setup & consultancy portal in UAE.",
+   "tags": [
+    "WordPress",
+    "Consultancy"
+   ],
+   "results": [
+    "Positioned top UAE consultancy"
+   ],
+   "workDone": "WordPress corporate site.",
+   "image": "img/work/the_catalyst_fze.jpg",
+   "team": false,
+   "slug": "the-catalyst-fze",
+   "order": 86,
+   "published": true
+  },
+  {
+   "id": "w-97",
+   "title": "Ingenious Hut",
+   "category": "DIGITAL AGENCY",
+   "industry": "Tech & Agency",
+   "url": "https://ingenioushut.com/",
+   "description": "Technology agency & software solutions portal.",
+   "tags": [
+    "WordPress",
+    "Agency"
+   ],
+   "results": [
+    "+180% project lead growth"
+   ],
+   "workDone": "WordPress web build.",
+   "image": "img/work/ingenious_hut.jpg",
+   "team": false,
+   "slug": "ingenious-hut",
+   "order": 87,
+   "published": true
+  },
+  {
+   "id": "w-98",
+   "title": "CMZ Global Alliance",
+   "category": "CORPORATE PORTAL",
+   "industry": "Global Trading Alliance",
+   "url": "https://cmzglobalalliance.com/",
+   "description": "Global trade alliance & supply chain platform.",
+   "tags": [
+    "WordPress",
+    "Global Trade"
+   ],
+   "results": [
+    "International partnership network"
+   ],
+   "workDone": "WordPress corporate platform.",
+   "image": "img/work/cmz_global_alliance.jpg",
+   "team": false,
+   "slug": "cmz-global-alliance",
+   "order": 88,
+   "published": true
+  },
+  {
+   "id": "w-100",
+   "title": "Boxes 2 Bags",
+   "category": "CORPORATE PORTAL",
+   "industry": "Packaging Ad Listing",
+   "url": "https://boxes2bags.com/",
+   "description": "Packaging materials & custom box ad listing site.",
+   "tags": [
+    "WordPress",
+    "Packaging"
+   ],
+   "results": [
+    "Packaging buyer directory"
+   ],
+   "workDone": "WordPress ad directory setup.",
+   "image": "img/work/boxes_2_bags.jpg",
+   "team": false,
+   "slug": "boxes-2-bags",
+   "order": 89,
+   "published": true
+  },
+  {
+   "id": "w-101",
+   "title": "Reage UAE",
+   "category": "CORPORATE PORTAL",
+   "industry": "Ad Listing & Services",
+   "url": "https://reageuae.com/",
+   "description": "UAE business directory and ad listing platform.",
+   "tags": [
+    "WordPress",
+    "Directory"
+   ],
+   "results": [
+    "Thousands of local UAE listings"
+   ],
+   "workDone": "Directory portal build.",
+   "image": null,
+   "team": false,
+   "slug": "reage-uae",
+   "order": 90,
+   "published": true
+  },
+  {
+   "id": "w-104",
+   "title": "Errors Free",
+   "category": "CORPORATE PORTAL",
+   "industry": "IT Solutions & Debugging",
+   "url": "https://errorsfree.com/",
+   "description": "IT tech support & software debugging services.",
+   "tags": [
+    "WordPress",
+    "IT Support"
+   ],
+   "results": [
+    "High client resolution rate"
+   ],
+   "workDone": "WordPress web development.",
+   "image": "img/work/errors_free.jpg",
+   "team": false,
+   "slug": "errors-free",
+   "order": 91,
+   "published": true
+  },
+  {
+   "id": "w-106",
+   "title": "Pop Box Boutique",
+   "category": "SHOPIFY ECOMMERCE",
+   "industry": "Fashion Boutique",
+   "url": "https://popboxboutique.com/",
+   "description": "Trendy women's fashion boutique store.",
+   "tags": [
+    "Shopify",
+    "Boutique"
+   ],
+   "results": [
+    "+240% order growth"
+   ],
+   "workDone": "Shopify boutique build.",
+   "image": "img/work/pop_box_boutique.jpg",
+   "team": false,
+   "slug": "pop-box-boutique",
+   "order": 92,
+   "published": true
+  },
+  {
+   "id": "w-108",
+   "title": "Test Hetnu Platform",
+   "category": "CUSTOM WEB APP",
+   "industry": "Digital Platform",
+   "url": "https://testhetnu.com/",
+   "description": "Digital testing & Web QA platform.",
+   "tags": [
+    "React",
+    "QA"
+   ],
+   "results": [
+    "Streamlined QA reporting"
+   ],
+   "workDone": "WordPress web build.",
+   "image": "img/work/test_hetnu_platform.jpg",
+   "team": false,
+   "slug": "test-hetnu-platform",
+   "order": 93,
+   "published": true
+  },
+  {
+   "id": "w-110",
+   "title": "Broadway Piano Rescue",
+   "category": "SERVICES PORTAL",
+   "industry": "Piano Tuning & Moving",
+   "url": "https://broadwaypianorescue.com/",
+   "description": "Piano tuning, moving, & restoration services site.",
+   "tags": [
+    "WordPress",
+    "Piano Moving"
+   ],
+   "results": [
+    "+210% booking inquiry growth"
+   ],
+   "workDone": "Local service page & booking build.",
+   "image": "img/work/broadway_piano_rescue.jpg",
+   "team": false,
+   "slug": "broadway-piano-rescue",
+   "order": 94,
+   "published": true
+  },
+  {
+   "id": "w-113",
+   "title": "Engel & Völkers",
+   "category": "CUSTOM WEB APP",
+   "industry": "Luxury Real Estate",
+   "url": "https://www.engelvoelkers.com/",
+   "description": "Global luxury real estate broker portal.",
+   "tags": [
+    "React",
+    "Real Estate"
+   ],
+   "results": [
+    "Multi-billion luxury listing search"
+   ],
+   "workDone": "Real estate search optimization.",
+   "image": "img/work/engel_v_lkers.jpg",
+   "team": true,
+   "slug": "engel-v-lkers",
+   "order": 95,
+   "published": true
+  },
+  {
+   "id": "w-114",
+   "title": "Mortgage N",
+   "category": "CORPORATE PORTAL",
+   "industry": "Mortgage & Finance",
+   "url": "https://www.mortgagen.ca/",
+   "description": "Canadian mortgage and home financing platform.",
+   "tags": [
+    "WordPress",
+    "Mortgage"
+   ],
+   "results": [
+    "+220% mortgage rate quotes"
+   ],
+   "workDone": "Mortgage rate calculator & web build.",
+   "image": "img/work/mortgage_n.jpg",
+   "team": false,
+   "slug": "mortgage-n",
+   "order": 96,
+   "published": true
+  },
+  {
+   "id": "gads-1",
+   "title": "Google Search Ads High-Intent PPC Campaign",
+   "category": "GOOGLE ADS",
+   "industry": "Healthcare & Medical Clinics",
+   "description": "High-intent Google Search PPC campaign performance report.",
+   "tags": [
+    "Google Search Ads",
+    "PPC",
+    "Healthcare"
+   ],
+   "results": [
+    "4.6x ROAS achieved",
+    "-42% Cost Per Acquisition"
+   ],
+   "workDone": "Negative keywords, conversion tracking, responsive ad copy.",
+   "image": "img/proof/gads-1.jpg",
+   "team": false,
+   "slug": "google-search-ads-high-intent-ppc-campaign",
+   "order": 97,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-2",
+   "title": "Google Search Ads Conversion Optimization",
+   "category": "GOOGLE ADS",
+   "industry": "Legal & Financial Services",
+   "description": "Target CPA bidding & ad extension optimization performance audit.",
+   "tags": [
+    "Google Search Ads",
+    "Conversion Rate"
+   ],
+   "results": [
+    "+240% qualified leads",
+    "$12.50 CPL"
+   ],
+   "workDone": "Landing page CRO & SKAG keyword structure.",
+   "image": "img/proof/gads-2.jpg",
+   "team": false,
+   "slug": "google-search-ads-conversion-optimization",
+   "order": 98,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-3",
+   "title": "Performance Max (PMax) E-Commerce Scaling",
+   "category": "GOOGLE ADS",
+   "industry": "Fashion & Retail E-Commerce",
+   "description": "Performance Max & Google Shopping ad scaling dashboard.",
+   "tags": [
+    "Performance Max",
+    "Google Shopping"
+   ],
+   "results": [
+    "5.2x ROAS",
+    "$85K+ monthly revenue"
+   ],
+   "workDone": "Merchant Center feed optimization & Smart bidding.",
+   "image": "img/proof/gads-3.jpg",
+   "team": false,
+   "slug": "performance-max-pmax-e-commerce-scaling",
+   "order": 99,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-4",
+   "title": "Google Shopping Merchant Feed Optimization",
+   "category": "GOOGLE ADS",
+   "industry": "Consumer Electronics",
+   "description": "High-volume Google Shopping feed optimization campaign.",
+   "tags": [
+    "Google Shopping",
+    "Feed Optimization"
+   ],
+   "results": [
+    "4.8x ROAS on Shopping",
+    "+310% impressions"
+   ],
+   "workDone": "Product title optimization & custom labels.",
+   "image": "img/proof/gads-4.jpg",
+   "team": false,
+   "slug": "google-shopping-merchant-feed-optimization",
+   "order": 100,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-5",
+   "title": "Local Emergency Services Call-Only Ads",
+   "category": "GOOGLE ADS",
+   "industry": "Emergency Home Services",
+   "description": "Hyper-local emergency search call-only ad campaign report.",
+   "tags": [
+    "Local PPC",
+    "Call Ads",
+    "Google Ads"
+   ],
+   "results": [
+    "$6.50 Cost Per Phone Lead",
+    "380+ monthly calls"
+   ],
+   "workDone": "Location radius bidding & call tracking.",
+   "image": "img/proof/gads-5.jpg",
+   "team": false,
+   "slug": "local-emergency-services-call-only-ads",
+   "order": 101,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-6",
+   "title": "Google Remarketing & Audience Targeting",
+   "category": "GOOGLE ADS",
+   "industry": "SaaS & B2B Enterprise",
+   "description": "Display & YouTube remarketing audience scaling campaign.",
+   "tags": [
+    "Google Display",
+    "YouTube Ads",
+    "Remarketing"
+   ],
+   "results": [
+    "6.1x ROAS on retargeting",
+    "-35% Bounce Rate"
+   ],
+   "workDone": "Customer Match lists & custom intent segments.",
+   "image": "img/proof/gads-6.jpg",
+   "team": false,
+   "slug": "google-remarketing-audience-targeting",
+   "order": 102,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-7",
+   "title": "B2B Enterprise Lead Gen Search PPC",
+   "category": "GOOGLE ADS",
+   "industry": "Corporate Logistics",
+   "description": "High-ticket B2B search PPC lead acquisition funnel.",
+   "tags": [
+    "B2B PPC",
+    "Google Ads"
+   ],
+   "results": [
+    "38 B2B contracts secured",
+    "5.1x ROAS"
+   ],
+   "workDone": "B2B keyword strategy & CRM integration.",
+   "image": "img/proof/gads-7.jpg",
+   "team": false,
+   "slug": "b2b-enterprise-lead-gen-search-ppc",
+   "order": 103,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "gads-8",
+   "title": "Multi-Channel Google Ads Scaling",
+   "category": "GOOGLE ADS",
+   "industry": "Global eCommerce",
+   "description": "Combined Search, Shopping, and PMax campaign scaling.",
+   "tags": [
+    "Google Ads",
+    "Multi-Channel"
+   ],
+   "results": [
+    "5.4x ROAS overall",
+    "$140K total sales"
+   ],
+   "workDone": "Omnichannel budget allocation & ROAS targets.",
+   "image": "img/proof/gads-8.jpg",
+   "team": false,
+   "slug": "multi-channel-google-ads-scaling",
+   "order": 104,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-1",
+   "title": "Meta Advantage+ Shopping Campaign",
+   "category": "META & TIKTOK ADS",
+   "industry": "Fashion & E-Commerce",
+   "description": "Meta Ads retargeting & Advantage+ scaling performance dashboard.",
+   "tags": [
+    "Meta Ads",
+    "Facebook Ads",
+    "Advantage+"
+   ],
+   "results": [
+    "5.4x ROAS on retargeting",
+    "$120K revenue in 90 days"
+   ],
+   "workDone": "CAPI pixel setup, video ad editing, lookalike scaling.",
+   "image": "img/proof/mads-1.jpg",
+   "team": false,
+   "slug": "meta-advantage-shopping-campaign",
+   "order": 105,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-2",
+   "title": "Facebook Retargeting & Lookalike Funnel",
+   "category": "META & TIKTOK ADS",
+   "industry": "Beauty & Cosmetics",
+   "description": "Multi-tier Facebook retargeting & lookalike audience campaign.",
+   "tags": [
+    "Facebook Ads",
+    "Lookalike",
+    "Retargeting"
+   ],
+   "results": [
+    "4.9x ROAS",
+    "+280% purchase volume"
+   ],
+   "workDone": "Dynamic product ads (DPA) & catalog sales setup.",
+   "image": "img/proof/mads-2.jpg",
+   "team": false,
+   "slug": "facebook-retargeting-lookalike-funnel",
+   "order": 106,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-3",
+   "title": "Instagram Visual Carousel Ad Campaign",
+   "category": "META & TIKTOK ADS",
+   "industry": "Luxury Goods (UAE)",
+   "description": "Instagram visual carousel campaign driving luxury orders.",
+   "tags": [
+    "Instagram Ads",
+    "Carousel",
+    "Luxury"
+   ],
+   "results": [
+    "4.2x ROAS baseline",
+    "1.5M impressions"
+   ],
+   "workDone": "Visual ad design & high-net-worth audience targeting.",
+   "image": "img/proof/mads-3.jpg",
+   "team": false,
+   "slug": "instagram-visual-carousel-ad-campaign",
+   "order": 107,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-4",
+   "title": "Meta CAPI Pixel & Conversion Setup",
+   "category": "META & TIKTOK ADS",
+   "industry": "Home Decor & Furnishings",
+   "description": "Conversions API (CAPI) tracking & server-side event setup.",
+   "tags": [
+    "Meta CAPI",
+    "Pixel Tracking"
+   ],
+   "results": [
+    "+35% attribution accuracy",
+    "3.9x ROAS"
+   ],
+   "workDone": "Server-side CAPI pixel setup & event deduplication.",
+   "image": "img/proof/mads-4.jpg",
+   "team": false,
+   "slug": "meta-capi-pixel-conversion-setup",
+   "order": 108,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-5",
+   "title": "E-Commerce Fashion Retargeting Ads",
+   "category": "META & TIKTOK ADS",
+   "industry": "Apparel & Accessories",
+   "description": "Dynamic catalog retargeting ads for cart abandoners.",
+   "tags": [
+    "Catalog Ads",
+    "Retargeting"
+   ],
+   "results": [
+    "6.2x ROAS on abandoned cart",
+    "-25% CAC"
+   ],
+   "workDone": "Dynamic creative optimization & offer testing.",
+   "image": "img/proof/mads-5.jpg",
+   "team": false,
+   "slug": "e-commerce-fashion-retargeting-ads",
+   "order": 109,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-6",
+   "title": "Luxury Brand Instagram Feed & Stories Ads",
+   "category": "META & TIKTOK ADS",
+   "industry": "Luxury Jewelry & Watches",
+   "description": "High-end Instagram Feed and Story video ad campaign.",
+   "tags": [
+    "Instagram Stories",
+    "Luxury Ads"
+   ],
+   "results": [
+    "4.5x ROAS",
+    "$95K campaign sales"
+   ],
+   "workDone": "High-res video editing & premium demographic targeting.",
+   "image": "img/proof/mads-6.jpg",
+   "team": false,
+   "slug": "luxury-brand-instagram-feed-stories-ads",
+   "order": 110,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-7",
+   "title": "High-ROAS Facebook Video Creative Campaign",
+   "category": "META & TIKTOK ADS",
+   "industry": "Fitness & Activewear",
+   "description": "UGC video ad testing & high-ROI scaling framework.",
+   "tags": [
+    "UGC Video Ads",
+    "Facebook Ads"
+   ],
+   "results": [
+    "5.1x ROAS",
+    "500K+ video views"
+   ],
+   "workDone": "UGC hook testing & fast-paced video editing.",
+   "image": "img/proof/mads-7.jpg",
+   "team": false,
+   "slug": "high-roas-facebook-video-creative-campaign",
+   "order": 111,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-8",
+   "title": "D2C Brand Advantage+ Shopping Retargeting",
+   "category": "META & TIKTOK ADS",
+   "industry": "Supplements & Health",
+   "description": "D2C subscription scaling using Meta Advantage+ Shopping.",
+   "tags": [
+    "D2C Ads",
+    "Advantage+"
+   ],
+   "results": [
+    "4.7x ROAS",
+    "+180% monthly subscribers"
+   ],
+   "workDone": "Subscription offer funnel & creative refresh.",
+   "image": "img/proof/mads-8.jpg",
+   "team": false,
+   "slug": "d2c-brand-advantage-shopping-retargeting",
+   "order": 112,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-9",
+   "title": "Meta Lead Ads & Instant Form Funnel",
+   "category": "META & TIKTOK ADS",
+   "industry": "Real Estate & B2B",
+   "description": "Instant Form lead ad campaign for high-value leads.",
+   "tags": [
+    "Lead Ads",
+    "Instant Forms"
+   ],
+   "results": [
+    "$8.20 Cost Per Qualified Lead",
+    "250+ leads/mo"
+   ],
+   "workDone": "Custom form qualifying questions & instant CRM sync.",
+   "image": "img/proof/mads-9.jpg",
+   "team": false,
+   "slug": "meta-lead-ads-instant-form-funnel",
+   "order": 113,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "mads-10",
+   "title": "High-Converting Instagram Reel Ads",
+   "category": "META & TIKTOK ADS",
+   "industry": "Lifestyle & Skincare",
+   "description": "Short-form Instagram Reel video ad campaign.",
+   "tags": [
+    "Instagram Reels",
+    "Short Form Video"
+   ],
+   "results": [
+    "4.4x ROAS",
+    "800K Reel reach"
+   ],
+   "workDone": "Vertical video optimization & trending audio hooks.",
+   "image": "img/proof/mads-10.jpg",
+   "team": false,
+   "slug": "high-converting-instagram-reel-ads",
+   "order": 114,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "ttads-1",
+   "title": "TikTok Spark Ads Viral Video Campaign",
+   "category": "META & TIKTOK ADS",
+   "industry": "Beauty & Lifestyle",
+   "description": "TikTok viral video ad strategy targeting Gen-Z & millennials.",
+   "tags": [
+    "TikTok Ads",
+    "Spark Ads"
+   ],
+   "results": [
+    "3.8x ROAS",
+    "450K video views"
+   ],
+   "workDone": "Trending audio integration & custom event pixel.",
+   "image": "img/proof/ttads-1.jpg",
+   "team": false,
+   "slug": "tiktok-spark-ads-viral-video-campaign",
+   "order": 115,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "ttads-2",
+   "title": "TikTok Custom Pixel & Instant Page Ads",
+   "category": "META & TIKTOK ADS",
+   "industry": "Gen-Z Fashion",
+   "description": "TikTok Instant Page fast-loading video ad campaign.",
+   "tags": [
+    "TikTok Ads",
+    "Instant Page"
+   ],
+   "results": [
+    "4.1x ROAS",
+    "+220% impulse purchases"
+   ],
+   "workDone": "Instant Page creation & pixel event optimization.",
+   "image": "img/proof/ttads-2.jpg",
+   "team": false,
+   "slug": "tiktok-custom-pixel-instant-page-ads",
+   "order": 116,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-1",
+   "title": "Organic Revenue & Traffic Surge Report #1",
+   "category": "SEO CASE STUDIES",
+   "industry": "Healthcare & Local Services",
+   "description": "Google Search Console organic click growth screenshot.",
+   "tags": [
+    "Technical SEO",
+    "Topical Mapping",
+    "GSC"
+   ],
+   "results": [
+    "+320% organic clicks in 90 days",
+    "50+ Top 3 rankings"
+   ],
+   "workDone": "Topical map development, schema markup, indexation fix.",
+   "image": "img/proof/seo-1.jpg",
+   "team": false,
+   "slug": "organic-revenue-traffic-surge-report-1",
+   "order": 117,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-2",
+   "title": "Technical SEO Audit & Clicks Growth #2",
+   "category": "SEO CASE STUDIES",
+   "industry": "Fashion & E-Commerce",
+   "description": "Product category SEO rank growth audit report.",
+   "tags": [
+    "E-Commerce SEO",
+    "Category Schema"
+   ],
+   "results": [
+    "+280% organic revenue",
+    "Featured snippets"
+   ],
+   "workDone": "Product description SEO & schema tagging.",
+   "image": "img/proof/seo-2.jpg",
+   "team": false,
+   "slug": "technical-seo-audit-clicks-growth-2",
+   "order": 118,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-3",
+   "title": "Topical Authority Ranking Performance #3",
+   "category": "SEO CASE STUDIES",
+   "industry": "Medical Practice (NYC)",
+   "description": "High-authority topic cluster organic click surge graph.",
+   "tags": [
+    "Topical Clusters",
+    "Medical SEO"
+   ],
+   "results": [
+    "#1 Rank for local medical terms",
+    "+200% patient leads"
+   ],
+   "workDone": "Content cluster architecture & medical schema.",
+   "image": "img/proof/seo-3.jpg",
+   "team": false,
+   "slug": "topical-authority-ranking-performance-3",
+   "order": 119,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-4",
+   "title": "Google Search Console Organic Clicks #4",
+   "category": "SEO CASE STUDIES",
+   "industry": "Local Emergency Services",
+   "description": "Google Search Console 90-day organic performance report.",
+   "tags": [
+    "GSC Audit",
+    "Organic Clicks"
+   ],
+   "results": [
+    "+410% organic impressions",
+    "Sub-1s LCP score"
+   ],
+   "workDone": "Core Web Vitals optimization & sitemap clean.",
+   "image": "img/proof/seo-4.jpg",
+   "team": false,
+   "slug": "google-search-console-organic-clicks-4",
+   "order": 120,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-5",
+   "title": "Healthcare & Local Niche SEO Surge #5",
+   "category": "SEO CASE STUDIES",
+   "industry": "Urgent Care & Clinics",
+   "description": "Local Map Pack & organic search domination case study.",
+   "tags": [
+    "Local Map Pack",
+    "Healthcare SEO"
+   ],
+   "results": [
+    "Top 3 Google Local Pack",
+    "+180% walk-ins"
+   ],
+   "workDone": "Google Business Profile optimization & local citations.",
+   "image": "img/proof/seo-5.jpg",
+   "team": false,
+   "slug": "healthcare-local-niche-seo-surge-5",
+   "order": 121,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-6",
+   "title": "E-Commerce Organic Rank Domination #6",
+   "category": "SEO CASE STUDIES",
+   "industry": "Shopify E-Commerce",
+   "description": "Product category ranking surge report.",
+   "tags": [
+    "Shopify SEO",
+    "Product Schema"
+   ],
+   "results": [
+    "+350% organic sales",
+    "Sub-second load time"
+   ],
+   "workDone": "Structured data JSON-LD & meta optimization.",
+   "image": "img/proof/seo-6.jpg",
+   "team": false,
+   "slug": "e-commerce-organic-rank-domination-6",
+   "order": 122,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-7",
+   "title": "Topical Mapping & Keyword Clusters #7",
+   "category": "SEO CASE STUDIES",
+   "industry": "Legal & Professional Services",
+   "description": "Comprehensive semantic topical map execution audit.",
+   "tags": [
+    "Topical Mapping",
+    "Semantic SEO"
+   ],
+   "results": [
+    "120+ keywords in Top 5",
+    "+240% organic consultations"
+   ],
+   "workDone": "Semantic content architecture & entity linking.",
+   "image": "img/proof/seo-7.jpg",
+   "team": false,
+   "slug": "topical-mapping-keyword-clusters-7",
+   "order": 123,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-8",
+   "title": "Google Indexation & Crawl Budget #8",
+   "category": "SEO CASE STUDIES",
+   "industry": "Large Scale Directory",
+   "description": "Crawl budget optimization & canonical tag audit report.",
+   "tags": [
+    "Crawl Budget",
+    "Technical SEO"
+   ],
+   "results": [
+    "100% pages indexed",
+    "Zero crawl errors"
+   ],
+   "workDone": "Robots.txt clean, sitemap fix & canonical audit.",
+   "image": "img/proof/seo-8.jpg",
+   "team": false,
+   "slug": "google-indexation-crawl-budget-8",
+   "order": 124,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-9",
+   "title": "PageSpeed & Core Web Vitals 95+ Score #9",
+   "category": "SEO CASE STUDIES",
+   "industry": "Luxury E-Commerce",
+   "description": "PageSpeed Insights 95+ score optimization case study.",
+   "tags": [
+    "PageSpeed 95+",
+    "Core Web Vitals"
+   ],
+   "results": [
+    "98/100 Mobile PageSpeed",
+    "-60% LCP time"
+   ],
+   "workDone": "Image WebP compression, JS deferral & CDN setup.",
+   "image": "img/proof/seo-9.jpg",
+   "team": false,
+   "slug": "pagespeed-core-web-vitals-95-score-9",
+   "order": 125,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-10",
+   "title": "Featured Snippet & Schema Rich Results #10",
+   "category": "SEO CASE STUDIES",
+   "industry": "SaaS & Tech Platform",
+   "description": "Google Rich Snippets & FAQ schema audit report.",
+   "tags": [
+    "Rich Snippets",
+    "FAQ Schema"
+   ],
+   "results": [
+    "45+ Position Zero snippets",
+    "+190% CTR"
+   ],
+   "workDone": "JSON-LD FAQ & HowTo schema injection.",
+   "image": "img/proof/seo-10.jpg",
+   "team": false,
+   "slug": "featured-snippet-schema-rich-results-10",
+   "order": 126,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-11",
+   "title": "High-DR Backlink Profile & Authority #11",
+   "category": "SEO CASE STUDIES",
+   "industry": "B2B Corporate Platform",
+   "description": "Domain rating & organic backlink growth performance graph.",
+   "tags": [
+    "Domain Authority",
+    "Backlink Audit"
+   ],
+   "results": [
+    "DR 15 to DR 48 surge",
+    "+300% high-intent traffic"
+   ],
+   "workDone": "Disavow spam links & guest authority outreach.",
+   "image": "img/proof/seo-11.jpg",
+   "team": false,
+   "slug": "high-dr-backlink-profile-authority-11",
+   "order": 127,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-12",
+   "title": "Local Map Pack Top 3 Ranking Audit #12",
+   "category": "SEO CASE STUDIES",
+   "industry": "Multi-Location Clinics",
+   "description": "Multi-location Google Maps Top 3 ranking case study.",
+   "tags": [
+    "Google Maps SEO",
+    "Multi-Location"
+   ],
+   "results": [
+    "Top 3 rank across 5 locations",
+    "+260% phone calls"
+   ],
+   "workDone": "Location page schema & NAP consistency audit.",
+   "image": "img/proof/seo-12.jpg",
+   "team": false,
+   "slug": "local-map-pack-top-3-ranking-audit-12",
+   "order": 128,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-13",
+   "title": "International Multi-Currency SEO #13",
+   "category": "SEO CASE STUDIES",
+   "industry": "Global E-Commerce (UAE & UK)",
+   "description": "Hreflang & multi-region organic search growth report.",
+   "tags": [
+    "International SEO",
+    "Hreflang"
+   ],
+   "results": [
+    "Organic traffic in 6 countries",
+    "+220% global sales"
+   ],
+   "workDone": "Hreflang tags & multi-currency canonical setup.",
+   "image": "img/proof/seo-13.jpg",
+   "team": false,
+   "slug": "international-multi-currency-seo-13",
+   "order": 129,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-14",
+   "title": "Medical & HIPAA Clinic Local Search #14",
+   "category": "SEO CASE STUDIES",
+   "industry": "HIPAA Medical Practice",
+   "description": "Patient acquisition local search growth report.",
+   "tags": [
+    "Medical SEO",
+    "Patient Acquisition"
+   ],
+   "results": [
+    "+195% appointment bookings",
+    "#1 rank local practice"
+   ],
+   "workDone": "Medical entity schema & HIPAA compliant content.",
+   "image": "img/proof/seo-14.jpg",
+   "team": false,
+   "slug": "medical-hipaa-clinic-local-search-14",
+   "order": 130,
+   "published": true,
+   "url": ""
+  },
+  {
+   "id": "seo-15",
+   "title": "Organic E-Commerce Conversion Traffic #15",
+   "category": "SEO CASE STUDIES",
+   "industry": "Custom Furniture & Decor",
+   "description": "Organic search revenue conversion audit report.",
+   "tags": [
+    "E-Commerce Conversion",
+    "SEO Revenue"
+   ],
+   "results": [
+    "+310% organic revenue",
+    "Sub-1s mobile LCP"
+   ],
+   "workDone": "Category description SEO & internal link structure.",
+   "image": "img/proof/seo-15.jpg",
+   "team": false,
+   "slug": "organic-e-commerce-conversion-traffic-15",
+   "order": 131,
+   "published": true,
+   "url": ""
+  }
+ ],
+ "services": [
+  {
+   "id": "wordpress-dev",
+   "title": "WordPress Development",
+   "category": "Web Development",
+   "tagline": "High-performance websites and eCommerce stores built to convert.",
+   "description": "Custom WordPress development engineered for speed, security, and conversion. Specializing in Elementor Pro, Dokan multi-vendor marketplaces, custom ACF themes, and HIPAA-compliant medical sites.",
+   "tags": [
+    "Elementor Pro",
+    "WooCommerce",
+    "Dokan Multi-Vendor",
+    "HIPAA Healthcare"
+   ],
+   "features": [
+    "Custom theme development & Elementor Pro",
+    "WooCommerce store & payment gateway integration",
+    "Multi-vendor marketplace (Dokan / WCFM)",
+    "Healthcare & HIPAA-compliant clinic sites",
+    "PageSpeed Optimization (95+ Green Scores)",
+    "Custom REST API integrations & security hardening"
+   ],
+   "order": 0
+  },
+  {
+   "id": "shopify-dev",
+   "title": "Shopify & eCommerce Stores",
+   "category": "Web Development",
+   "tagline": "High-converting Shopify stores designed to scale online revenue.",
+   "description": "Custom Liquid theme development, store setup, app integrations, custom checkout funnels, and mobile CRO for global fashion, beauty, and luxury brands.",
+   "tags": [
+    "Shopify Plus",
+    "Liquid Templates",
+    "Fashion & Luxury",
+    "Custom App Setup"
+   ],
+   "features": [
+    "Custom Shopify theme development & Liquid coding",
+    "Store migration (WooCommerce to Shopify)",
+    "App ecosystem & subscription integration",
+    "Checkout customization & one-click upsells",
+    "Product page CRO & high-converting layout",
+    "Multi-currency & international market setup"
+   ],
+   "order": 1
+  },
+  {
+   "id": "advanced-seo",
+   "title": "SEO, AEO & GEO",
+   "category": "SEO, AEO & GEO",
+   "tagline": "Rank on Google, get quoted in AI answers.",
+   "description": "Technical SEO, topical authority and local SEO for Google, plus Answer Engine Optimization (AEO) and Generative Engine Optimization (GEO) so your brand is the answer in featured snippets, Google AI Overviews, ChatGPT, Perplexity and voice search.",
+   "tags": [
+    "Technical SEO",
+    "AEO",
+    "GEO / AI Search",
+    "Local Google Maps",
+    "Topical Clusters"
+   ],
+   "features": [
+    "Technical SEO crawling & indexability fixes",
+    "Topical authority mapping & content clusters",
+    "Local SEO & Google Business Profile 3-Pack rank",
+    "AEO: answer-first content, FAQ & featured snippets",
+    "GEO: visibility in AI Overviews, ChatGPT & Perplexity",
+    "Schema markup, entity SEO & llms.txt",
+    "Healthcare & YMYL E-E-A-T optimization",
+    "Monthly GA4 & Search Console ROI reporting"
+   ],
+   "order": 2
+  },
+  {
+   "id": "digital-marketing",
+   "title": "Google, Meta & TikTok Ads",
+   "category": "Paid Marketing",
+   "tagline": "Full-funnel paid acquisition campaigns delivering 4x+ ROAS.",
+   "description": "Hyper-targeted Google Search & Shopping campaigns, Meta Advantage+ visual funnels, and TikTok viral ad strategies built to turn ad spend into profitable revenue.",
+   "tags": [
+    "Google Search Ads",
+    "Meta Ads Manager",
+    "TikTok Spark Ads",
+    "ROAS Scaling"
+   ],
+   "features": [
+    "Google Ads (Search, Shopping, Performance Max)",
+    "Meta Ads (Facebook & Instagram retargeting funnels)",
+    "TikTok Ads (Creative direction & Spark Ads)",
+    "Conversion API (CAPI) & pixel tracking",
+    "Creative A/B testing & landing page CRO",
+    "Lead gen instant forms with webhook notification"
+   ],
+   "order": 3
+  },
+  {
+   "id": "ai-automation",
+   "title": "AI Automation & Chatbots",
+   "category": "AI Automation",
+   "tagline": "Workflows that capture, qualify and follow up with every lead, 24/7.",
+   "description": "Custom automations built with n8n, Make and Zapier that connect your website, ad forms, CRM, email and WhatsApp. AI chatbots trained on your business answer questions, qualify leads and book calls around the clock, so no enquiry waits until morning.",
+   "features": [
+    "n8n, Make & Zapier workflow automation",
+    "AI chatbots for websites & WhatsApp",
+    "Lead capture, scoring & CRM sync",
+    "Instant email & WhatsApp follow-ups",
+    "Appointment booking & reminders",
+    "AI content, reporting & data workflows"
+   ],
+   "tags": [
+    "n8n",
+    "Make / Zapier",
+    "AI Chatbots",
+    "LLM Agents",
+    "CRM Automation"
+   ],
+   "order": 4
+  },
+  {
+   "id": "ecommerce-solutions",
+   "title": "End-to-End eCommerce Systems",
+   "category": "eCommerce",
+   "tagline": "Complete eCommerce architecture from platform choice to launch.",
+   "description": "Platform consultation, inventory catalog setup, payment gateway setup (Stripe/PayPal), shipping configuration, multi-currency support, and B2B wholesale portals.",
+   "tags": [
+    "WooCommerce",
+    "Shopify",
+    "Multi-Currency",
+    "B2B Marketplaces"
+   ],
+   "features": [
+    "Platform consultation (WooCommerce vs Shopify)",
+    "Product catalog structuring & inventory sync",
+    "Payment gateway & B2B portal configuration",
+    "Automated email marketing (Klaviyo/Mailchimp)",
+    "Shipping rules & tax automation",
+    "Conversion Rate Optimization (CRO)"
+   ],
+   "order": 5
+  },
+  {
+   "id": "content-strategy",
+   "title": "Content Strategy & Copywriting",
+   "category": "SEO & Content",
+   "tagline": "Authority content that ranks #1 and converts readers into buyers.",
+   "description": "Topical cluster mapping, high-converting copy, blog strategy, product page copywriting, and search engine optimization tailored to build brand authority.",
+   "tags": [
+    "Topical Mapping",
+    "Copywriting",
+    "Blog Management",
+    "Content Marketing"
+   ],
+   "features": [
+    "Topical cluster architecture & keyword mapping",
+    "High-converting landing page copywriting",
+    "Blog content planning & publishing",
+    "SEO product description writing",
+    "Brand tone of voice & content calendar",
+    "Organic search performance tracking"
+   ],
+   "order": 6
+  }
+ ],
+ "posts": [
+  {
+   "slug": "seo-aeo-geo",
+   "title": "SEO vs AEO vs GEO: how to get found on Google and in AI answers",
+   "excerpt": "Search no longer ends on ten blue links. Here is what SEO, Answer Engine Optimization and Generative Engine Optimization each mean, and the checklist I use to cover all three.",
+   "cat": "SEO, AEO & GEO",
+   "date": "Nov 14, 2026",
+   "read": "7 min read",
+   "image": "img/proof/seo-3.jpg",
+   "body": [
+    [
+     "p",
+     "People now get answers from Google's AI Overviews, ChatGPT, Perplexity and voice assistants, often without clicking a single result. Ranking still matters, but being the source those answers quote matters just as much. That is where AEO and GEO come in."
+    ],
+    [
+     "h2",
+     "SEO: rank the page"
+    ],
+    [
+     "p",
+     "Search Engine Optimization makes your pages crawlable, fast, relevant and trusted so they rank in the normal results. Technical health, topical authority, internal links, backlinks and E-E-A-T are still the foundation. Without solid SEO, AEO and GEO have nothing to build on."
+    ],
+    [
+     "h2",
+     "AEO: be the direct answer"
+    ],
+    [
+     "p",
+     "Answer Engine Optimization targets featured snippets, People Also Ask boxes and voice answers. The goal is a short, clear answer that a search engine can lift straight from your page."
+    ],
+    [
+     "ul",
+     [
+      "Put the answer in the first 40 to 60 words under each question heading",
+      "Use question-style H2s and H3s that match how people search",
+      "Add FAQ, HowTo and Product schema where it fits",
+      "Keep one idea per paragraph so answers are easy to extract"
+     ]
+    ],
+    [
+     "h2",
+     "GEO: get cited by AI"
+    ],
+    [
+     "p",
+     "Generative Engine Optimization is about being mentioned and cited when large language models build an answer. These systems favor content that is specific, well-structured and consistent across the web."
+    ],
+    [
+     "ul",
+     [
+      "State facts with numbers, dates and sources that a model can quote",
+      "Make your brand an entity: consistent name, About page, Organization and Person schema, sameAs links",
+      "Earn mentions on trusted sites, directories and industry roundups",
+      "Publish original data, case studies and comparisons that others reference",
+      "Add an llms.txt file that points AI crawlers to your key pages"
+     ]
+    ],
+    [
+     "h2",
+     "One plan that covers all three"
+    ],
+    [
+     "p",
+     "In practice it is one workflow. Fix the technical base, build topic clusters around your money pages, write answer-first sections inside those pages, mark them up with schema, and keep your brand facts identical everywhere. Then track rankings in Search Console and test your key questions in ChatGPT, Perplexity and Google AI Overviews every month to see where you are cited."
+    ],
+    [
+     "quote",
+     "SEO gets you ranked, AEO gets you quoted, GEO gets you recommended. A modern search plan needs all three."
+    ]
+   ],
+   "order": 0,
+   "published": true
+  },
+  {
+   "slug": "shopify-speed-90-plus",
+   "title": "Why your Shopify store is slow, and how to reach a 90+ PageSpeed score",
+   "excerpt": "Most slow Shopify stores have the same four problems: too many apps, oversized images, render-blocking scripts and a heavy theme. Here is the order I fix them in.",
+   "cat": "Shopify",
+   "date": "Nov 10, 2026",
+   "read": "6 min read",
+   "image": "img/work/crumb_pet.jpg",
+   "body": [
+    [
+     "p",
+     "A slow store loses sales before the product page even finishes loading. On mobile, every extra second of load time lowers conversion, and Google uses Core Web Vitals as a ranking signal. The good news is that most Shopify speed problems come from the same few causes, and you can fix them without rebuilding the store."
+    ],
+    [
+     "h2",
+     "1. Audit your apps first"
+    ],
+    [
+     "p",
+     "Every app you install can add JavaScript and CSS to every page, even pages where the app does nothing. Open your theme code and search for scripts from apps you uninstalled months ago; they are often still there. Remove unused apps completely, then check that their snippets are gone from theme.liquid."
+    ],
+    [
+     "ul",
+     [
+      "List every installed app and what it does for revenue",
+      "Uninstall anything that does not earn its place",
+      "Delete leftover snippets and script tags from the theme",
+      "Load chat widgets and review widgets only after user interaction"
+     ]
+    ],
+    [
+     "h2",
+     "2. Serve images at the right size"
+    ],
+    [
+     "p",
+     "A 3000px product photo shown in a 600px card is the most common waste I find. Use Shopify's image_url filter with a width, add srcset so phones get smaller files, and set width and height attributes so the layout does not jump while images load. Lazy-load everything below the first screen, but never the hero image."
+    ],
+    [
+     "h2",
+     "3. Stop render-blocking scripts"
+    ],
+    [
+     "p",
+     "Scripts in the head block the page from painting. Move non-critical scripts to the end of the body or add defer. Tracking pixels can usually load after the page is interactive without losing data, especially when you also send events server-side through the Conversions API."
+    ],
+    [
+     "h2",
+     "4. Choose a lean theme"
+    ],
+    [
+     "p",
+     "Some themes ship sliders, animations and mega menus on every page. If your theme scores badly even with no apps installed, the theme itself is the bottleneck. Dawn-based themes are a strong starting point because they are built around native browser features instead of large libraries."
+    ],
+    [
+     "h2",
+     "What to measure"
+    ],
+    [
+     "p",
+     "Test the home page, one collection page and one product page in PageSpeed Insights on mobile. Focus on Largest Contentful Paint (under 2.5s), Interaction to Next Paint (under 200ms) and Cumulative Layout Shift (under 0.1). Fix the worst page first, because that is usually where paid traffic lands."
+    ],
+    [
+     "quote",
+     "Speed work is not a one-time job. Every new app or campaign script can undo it, so check your scores after every change."
+    ]
+   ],
+   "order": 1,
+   "published": true
+  },
+  {
+   "slug": "topical-mapping-guide",
+   "title": "Topical mapping: how to plan SEO content that actually ranks",
+   "excerpt": "Writing random blog posts rarely builds rankings. A topical map groups every question your customers ask into clusters, so Google sees your site as the authority on the subject.",
+   "cat": "SEO",
+   "date": "Nov 3, 2026",
+   "read": "7 min read",
+   "image": "img/proof/seo-7.jpg",
+   "body": [
+    [
+     "p",
+     "Google rewards sites that cover a subject completely. A single good article can rank for a while, but a connected set of pages that answer every related question builds rankings that last. That set of pages, planned in advance, is a topical map."
+    ],
+    [
+     "h2",
+     "Start from the money pages"
+    ],
+    [
+     "p",
+     "List the pages that make you money: service pages, category pages or product pages. Each one becomes the center of a cluster. Everything you write should support one of these pages and link back to it."
+    ],
+    [
+     "h2",
+     "Collect every real question"
+    ],
+    [
+     "p",
+     "Pull questions from Google's People Also Ask boxes, Search Console queries, sales calls, support emails and competitor pages. Group them by the intent behind them, not by keyword. Questions that need the same answer belong on the same page."
+    ],
+    [
+     "ul",
+     [
+      "Informational: what, why and how questions",
+      "Commercial: comparisons, best-of lists and costs",
+      "Transactional: service, product and location pages",
+      "Local: city and neighborhood variations, if you serve an area"
+     ]
+    ],
+    [
+     "h2",
+     "Build the cluster structure"
+    ],
+    [
+     "p",
+     "Each cluster has one pillar page that covers the topic broadly and several supporting pages that go deep on one question each. Supporting pages link to the pillar, the pillar links to every supporting page, and the pillar links to the money page."
+    ],
+    [
+     "h2",
+     "Publish in the right order"
+    ],
+    [
+     "p",
+     "Publish the pillar and the supporting pages closest to buying intent first. Then fill in the informational pages. Publishing a full cluster within a few weeks sends a stronger signal than spreading one article a month across many topics."
+    ],
+    [
+     "h2",
+     "Measure by cluster, not by post"
+    ],
+    [
+     "p",
+     "In Search Console, filter pages by folder or keyword pattern and track total clicks for the whole cluster. A cluster that grows together is working. If one page gets impressions but no clicks, rewrite its title and meta description before writing anything new."
+    ],
+    [
+     "quote",
+     "A topical map turns content from guesswork into a plan you can execute and measure."
+    ]
+   ],
+   "order": 2,
+   "published": true
+  },
+  {
+   "slug": "google-ads-local-services",
+   "title": "Google Ads for local service businesses: a call-first campaign setup",
+   "excerpt": "For plumbers, locksmiths, HVAC and movers, the phone call is the conversion. This is the campaign structure I use to lower cost per call without losing volume.",
+   "cat": "Google Ads",
+   "date": "Oct 27, 2026",
+   "read": "6 min read",
+   "image": "img/proof/gads-5.jpg",
+   "body": [
+    [
+     "p",
+     "Local service customers rarely fill in forms. They search, see a number and call. A campaign built around calls, not clicks, usually produces cheaper leads and clearer reporting for these businesses."
+    ],
+    [
+     "h2",
+     "Track calls properly before spending"
+    ],
+    [
+     "p",
+     "Set up call conversions from ads, call conversions from the website using a Google forwarding number, and a minimum call length of 60 seconds so short wrong numbers do not count. Without this, Smart Bidding optimizes for the wrong thing."
+    ],
+    [
+     "h2",
+     "Split campaigns by urgency"
+    ],
+    [
+     "p",
+     "Emergency searches such as \"locksmith near me\" or \"burst pipe repair\" behave differently from planned jobs like \"AC installation quote\". Put them in separate campaigns with separate budgets, schedules and ad copy. Emergency campaigns often deserve 24/7 scheduling and higher bids at night."
+    ],
+    [
+     "ul",
+     [
+      "Emergency campaign: tight phrase and exact match, call assets, 24/7",
+      "Planned-work campaign: broader terms, landing page with quote form",
+      "Brand campaign: protects your name from competitors at low cost"
+     ]
+    ],
+    [
+     "h2",
+     "Keep the location tight"
+    ],
+    [
+     "p",
+     "Use \"presence\" location targeting, not \"presence or interest\", so you only pay for people who are actually in your service area. Add radius targeting around your base and exclude areas you do not serve."
+    ],
+    [
+     "h2",
+     "Negative keywords save the budget"
+    ],
+    [
+     "p",
+     "Check the search terms report weekly at first. Add negatives for jobs, training, DIY, free and parts searches. In service accounts, this step alone often removes a large share of wasted spend."
+    ],
+    [
+     "h2",
+     "Write ads that earn the call"
+    ],
+    [
+     "p",
+     "Put the service, the area and the speed promise in the headline: \"24/7 Locksmith in Brooklyn, 20-Min Arrival\". Add call assets, location assets and a few sitelinks for the main services. Match the landing page headline to the ad so visitors know they are in the right place."
+    ],
+    [
+     "quote",
+     "Measure cost per qualified call, not cost per click. That is the number the business owner cares about."
+    ]
+   ],
+   "order": 3,
+   "published": true
+  }
+ ],
+ "reviews": [
+  {
+   "id": "ahsan-ghani-medics",
+   "featured": true,
+   "quote": "I am extremely satisfied with Usama’s service. Over the past five years, he has consistently gone above and beyond for me. His work is always efficient, accurate, and reliable. No matter the task, he approaches it with professionalism and attention to detail, ensuring everything is completed to the highest standard. It’s rare to find someone so dedicated and trustworthy, and I truly appreciate all the effort he has put in over the years. Highly recommended!",
+   "name": "Ahsan A.",
+   "role": "Chief Executive Officer, Ghani Medics",
+   "link": "/work/ghani-medic/",
+   "job": "",
+   "date": "Apr 2026",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 0
+  },
+  {
+   "id": "website-creation-landing-page-wordpress-technical-issues",
+   "featured": false,
+   "quote": "This is not my first hire for Usama he is been amazing to have in my corner he totally knows all about websites technical issues, intergartions and marketing plans on SEO and AEO and much more. He loves his work and I am grateful to have him on my team. He is fluent in english and confidant in his work",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "Website Creation - Landing Page (WordPress technical issues)",
+   "date": "May 2026",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 1
+  },
+  {
+   "id": "wordpress-website-designer-developer-for-brand-refresh-multi",
+   "featured": false,
+   "quote": "Easy to work with, very responsive and quick on the many edits needed along the way! Worked well within our deadlines and budget. Very pleased and will work together on more projects!",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "WordPress Website Designer & Developer for Brand Refresh, Multi-Phase Build",
+   "date": "Sep 2025",
+   "tags": [
+    "Clear Communicator",
+    "Collaborative",
+    "Reliable"
+   ],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 2
+  },
+  {
+   "id": "seo-state-subdomains-for-resilience-adhd-louisiana",
+   "featured": false,
+   "quote": "Excellent work!! Very attentive and responsive. Quick to make needed changes. Very easy to work with!",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "SEO, state subdomains for Resilience ADHD, Louisiana",
+   "date": "Sep 2025",
+   "tags": [
+    "Committed to Quality",
+    "Clear Communicator",
+    "Solution Oriented",
+    "Collaborative"
+   ],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 3
+  },
+  {
+   "id": "experienced-ceo-for-strategic-leadership",
+   "featured": false,
+   "quote": "It may be too early to say, but looking forward to positive results from the SEO work that was completed",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "Experienced CEO for Strategic Leadership",
+   "date": "Apr 2026",
+   "tags": [
+    "Solution Oriented",
+    "Clear Communicator",
+    "Detail Oriented"
+   ],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 4
+  },
+  {
+   "id": "rated-seo-ppc-marketing",
+   "featured": false,
+   "quote": "",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "SEO PPC Marketing",
+   "date": "USA · 597 hours · May 2024 – Jan 2025",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 10
+  },
+  {
+   "id": "rated-full-stack-wordpress-designer-developer-long-term",
+   "featured": false,
+   "quote": "",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "Full-Stack WordPress Designer & Developer (Long-Term)",
+   "date": "Aug 2026",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 11
+  },
+  {
+   "id": "rated-procrastination-group-webpage",
+   "featured": false,
+   "quote": "",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "Procrastination group webpage",
+   "date": "Committed to Quality · Clear Communicator",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 12
+  },
+  {
+   "id": "rated-wordpress-speed-optimization",
+   "featured": false,
+   "quote": "",
+   "name": "",
+   "role": "Upwork client",
+   "link": "",
+   "job": "WordPress Speed Optimization",
+   "date": "Colombia · 2025",
+   "tags": [],
+   "rating": 5,
+   "source": "Upwork",
+   "order": 13
+  }
+ ],
+ "faqs": [
+  {
+   "id": "what-services-does-usama-sheikh-offer",
+   "question": "What services does Usama Sheikh offer?",
+   "answer": "WordPress and Shopify website development, SEO, AEO and GEO, Google, Meta and TikTok ads, end-to-end eCommerce systems, content strategy, and AI automation with chatbots. You can hire one service or have one partner handle the full funnel from website to traffic to lead follow-up.",
+   "order": 0
+  },
+  {
+   "id": "how-much-does-a-website-cost",
+   "question": "How much does a website cost?",
+   "answer": "WordPress websites start from $450 and Shopify stores from $650. Healthcare and medical sites start from $800. Add-ons such as technical SEO, ad setup and speed optimization are priced separately. Use the budget estimator above for an instant figure, then book a free call for an exact quote.",
+   "order": 1
+  },
+  {
+   "id": "how-long-does-a-website-take-to-build",
+   "question": "How long does a website take to build?",
+   "answer": "A standard WordPress website takes about 7 days and a Shopify store about 10 days. Larger builds, marketplaces and healthcare sites take longer. You get a clear milestone plan before work starts.",
+   "order": 2
+  },
+  {
+   "id": "what-are-aeo-and-geo-and-do-you-offer-them",
+   "question": "What are AEO and GEO, and do you offer them?",
+   "answer": "Yes. AEO (Answer Engine Optimization) structures your content so Google can show it as a featured snippet, People Also Ask answer or voice answer. GEO (Generative Engine Optimization) helps AI tools such as Google AI Overviews, ChatGPT and Perplexity mention and cite your brand. Both are included in the SEO, AEO and GEO service.",
+   "order": 3
+  },
+  {
+   "id": "what-can-ai-automation-do-for-my-business",
+   "question": "What can AI automation do for my business?",
+   "answer": "AI automation captures leads from your website and ads, qualifies them, saves them to your CRM and replies instantly by email or WhatsApp. AI chatbots answer customer questions and book calls 24/7. Workflows are built with n8n, Make or Zapier and connected to the tools you already use.",
+   "order": 4
+  },
+  {
+   "id": "do-you-work-with-clients-outside-pakistan",
+   "question": "Do you work with clients outside Pakistan?",
+   "answer": "Yes. Most clients are in the USA, UK, UAE, Canada and Ireland. Communication is in English over WhatsApp, email, Upwork or video calls, and responses come within 24 hours.",
+   "order": 5
+  },
+  {
+   "id": "how-does-demo-first-pay-later-work",
+   "question": "How does demo first, pay later work?",
+   "answer": "You review a working demo of your website or campaign setup before committing, so you only pay for work you have seen and approved.",
+   "order": 6
+  },
+  {
+   "id": "do-you-provide-support-after-launch",
+   "question": "Do you provide support after launch?",
+   "answer": "Yes. Every project includes 30 days of free post-launch support for fixes and small changes. Ongoing SEO, ads management and maintenance plans are available after that.",
+   "order": 7
+  },
+  {
+   "id": "can-i-hire-you-through-upwork",
+   "question": "Can I hire you through Upwork?",
+   "answer": "Yes. Usama is a Top Rated freelancer on Upwork with a 5.0 rating, so you can hire through Upwork's protected payments or contact him directly on WhatsApp or email.",
+   "order": 8
+  }
+ ],
+ "settings": {
+  "contact": {
+   "email": "hello@usamasheikh.com",
+   "phone": "+92 300 7856880",
+   "whatsapp": "923007856880",
+   "upwork": "https://www.upwork.com/freelancers/~0184fc6e82b14f5a2b",
+   "linkedin": "https://www.linkedin.com/in/iamusamasheikh"
+  },
+  "stats": [
+   {
+    "value": 130,
+    "suffix": "+",
+    "label": "Projects delivered"
+   },
+   {
+    "value": 80,
+    "suffix": "+",
+    "label": "Clients across 6 countries"
+   },
+   {
+    "value": 7,
+    "suffix": "+",
+    "label": "Years on Upwork, since 2018"
+   },
+   {
+    "value": 5.0,
+    "suffix": "★",
+    "decimals": 1,
+    "label": "Upwork rating · 100% satisfaction"
+   }
+  ],
+  "featured": [
+   "local-md-nyc",
+   "crumb-pet",
+   "shop-in-ireland",
+   "ka-lending-solutions",
+   "first-point-md",
+   "doe-modellers",
+   "the-online-sofa-shop",
+   "zephyr-clothing"
+  ],
+  "estimator": {
+   "cores": [
+    {
+     "id": "wordpress",
+     "label": "WordPress Website",
+     "price": 450,
+     "days": 7
+    },
+    {
+     "id": "shopify",
+     "label": "Shopify eCommerce Store",
+     "price": 650,
+     "days": 10
+    },
+    {
+     "id": "marketing",
+     "label": "Google & Social Media Ads",
+     "price": 500,
+     "days": 5
+    },
+    {
+     "id": "healthcare",
+     "label": "Healthcare & Medical Site",
+     "price": 800,
+     "days": 12
+    }
+   ],
+   "addons": [
+    {
+     "id": "seo",
+     "label": "Advanced Technical SEO & Topical Mapping",
+     "price": 200,
+     "days": 3
+    },
+    {
+     "id": "ads_setup",
+     "label": "Google Ads & Meta Ads Campaign Setup",
+     "price": 250,
+     "days": 3
+    },
+    {
+     "id": "speed",
+     "label": "95+ Speed & Core Web Vitals Optimization",
+     "price": 150,
+     "days": 1
+    },
+    {
+     "id": "content",
+     "label": "Topical Content Clusters & Copywriting",
+     "price": 180,
+     "days": 2
+    },
+    {
+     "id": "multivendor",
+     "label": "Multi-Vendor Marketplace (Dokan/WCFM)",
+     "price": 350,
+     "days": 5
+    }
+   ]
+  },
+  "rating": {
+   "score": "5.0",
+   "text": "Upwork rating · Top Rated · 12+ completed jobs"
+  }
+ }
+}
