@@ -1,6 +1,7 @@
 // Loads content/seed.json into the database.
 // Usage: npm run seed            (only fills empty collections)
 //        npm run seed -- --force (replaces every collection with the seed file)
+//        node src/seed.js --if-new (runs on start: loads content only into a brand-new database)
 import fs from 'node:fs';
 import path from 'node:path';
 import { fileURLToPath } from 'node:url';
@@ -12,6 +13,10 @@ const seed = JSON.parse(fs.readFileSync(path.join(here, '../../content/seed.json
 const force = process.argv.includes('--force');
 
 await migrate();
+if (process.argv.includes('--if-new')) {
+  const { rows } = await q("SELECT 1 FROM documents WHERE collection='settings' AND id='site'");
+  if (rows.length) { console.log('Content already loaded, seed skipped'); await pool.end(); process.exit(0); }
+}
 for (const col of ['projects', 'posts', 'reviews', 'faqs', 'services']) {
   const { rows } = await q('SELECT count(*)::int AS n FROM documents WHERE collection=$1', [col]);
   if (rows[0].n && !force) { console.log(`${col}: already has ${rows[0].n} items, skipped`); continue; }

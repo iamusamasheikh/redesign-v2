@@ -7,7 +7,7 @@
   "main": "src/index.js",
   "engines": { "node": ">=20" },
   "scripts": {
-    "start": "node src/index.js",
+    "start": "node src/seed.js --if-new && node src/index.js",
     "dev": "node --watch src/index.js",
     "migrate": "node src/migrate.js",
     "seed": "node src/seed.js",
